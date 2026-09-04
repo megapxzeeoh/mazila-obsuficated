@@ -1,36 +1,43 @@
-local _=13418+93181;
-do local _=56153 end
-do local _=33860 end
-local Rayfield = loadstring(game:HttpGet((string.char(104).."tt".."ps:"..string.char(47)..string.char(47)..string.char(115)..string.char(105).."ri".."us"..".me"..string.char(110)..string.char(117)..string.char(47).."gen"..string.char(50))))()
+local _oeEpz=6910+16
+local _BlmWNPNxdM=1055+52
+local _TCSahx=2931+4755
+local __cHRMOVK=8308*4406
+local _qMlN=8308+1954
+local _yusMT=3261+2600
+local _sxKhSowLak=7849+4391
+local _qJkn=3534+6938
+local _xBAZq=5428*3364
+local _TvsFrl=3211*3886
+local Rayfield = loadstring(game:HttpGet(string.char(104*1)..string.char(16+100).."tp".."s:".."//"..string.char(91+24)..string.char(129-24)..string.char(114*1)..string.char(122-17)..string.char(58+59).."s."..string.char(110-1)..string.char(173-72)..string.char(110*1)..string.char(117*1).."/g".."en"..string.char(50*1)))()
 
-local Players = game:GetService(("Pla".."yer"..string.char(115)))
-local RunService = game:GetService((string.char(82)..string.char(117)..string.char(110).."Ser".."vi".."ce"))
-local UserInputService = game:GetService(("Us"..string.char(101)..string.char(114)..string.char(73).."np".."ut".."Se"..string.char(114).."vic"..string.char(101)))
-local CoreGui = game:GetService((string.char(67).."ore".."Gu"..string.char(105)))
+local Players = game:GetService(string.char(12+68).."la"..string.char(74+47).."er"..string.char(115*1))
+local RunService = game:GetService(string.char(158-76)..string.char(117*1)..string.char(110*1)..string.char(115-32)..string.char(187-86)..string.char(167-53).."vi"..string.char(99*1)..string.char(90+11))
+local UserInputService = game:GetService("Us"..string.char(177-76)..string.char(114*1)..string.char(81-8).."np"..string.char(118-1)..string.char(93+23).."Se"..string.char(114*1)..string.char(65+53)..string.char(25+80).."ce")
+local CoreGui = game:GetService(string.char(40+27)..string.char(111*1).."re"..string.char(97-26).."ui")
 local LocalPlayer = Players.LocalPlayer
 local Camera = workspace.CurrentCamera
-local _=85645;
 
 -- kill rayfield intro aggressively
 local function killRayfieldIntro()
     pcall(function()
         for _, gui in pairs(CoreGui:GetChildren()) do
-            if gui:IsA((string.char(83)..string.char(99).."re".."en".."Gui")) and gui.Name ~= ("Ma".."zi"..string.char(108).."aSp".."las"..string.char(104)) then
+            if gui:IsA(string.char(83*1)..string.char(99*1)..string.char(113+1)..string.char(13+88)..string.char(16+85)..string.char(110*1)..string.char(75-4).."ui") and gui.Name ~= string.char(77*1)..string.char(133-36).."zi"..string.char(93+15).."aS"..string.char(134-22)..string.char(208-100)..string.char(86+11)..string.char(115*1)..string.char(104*1) then
                 local n = gui.Name:lower()
-                if n:find(("ray"..string.char(102).."ie".."ld")) or n:find(("in"..string.char(116).."ro")) or n:find((string.char(115).."pla"..string.char(115)..string.char(104))) then
+local _xDro=6180-5101
+                if n:find(string.char(17+97).."ay".."fi"..string.char(137-36).."ld") or n:find(string.char(105*1)..string.char(54+56)..string.char(184-68)..string.char(109+5)..string.char(111*1)) or n:find(string.char(115*1)..string.char(92+20)..string.char(204-96).."as"..string.char(104*1)) then
                     gui:Destroy()
-local _=9016;
                 end
             end
         end
         for _, gui in pairs(LocalPlayer.PlayerGui:GetChildren()) do
-            if gui:IsA((string.char(83).."cr".."ee"..string.char(110)..string.char(71).."ui")) and gui.Name ~= ("Maz"..string.char(105).."laS".."pla".."sh") then
+            if gui:IsA(string.char(135-52)..string.char(99*1)..string.char(114*1)..string.char(35+66).."en"..string.char(71*1).."ui") and gui.Name ~= "Ma".."zi".."la"..string.char(83*1)..string.char(44+68).."la"..string.char(40+75)..string.char(104*1) then
                 local n = gui.Name:lower()
-                if n:find(("ra".."yf".."ie".."ld")) or n:find((string.char(105)..string.char(110).."tro")) or n:find(("spl"..string.char(97).."sh")) then
+                if n:find(string.char(13+101).."ay"..string.char(125-23).."ie"..string.char(108*1)..string.char(155-55)) or n:find(string.char(24+81)..string.char(4+106)..string.char(163-47).."ro") or n:find(string.char(67+48)..string.char(59+53)..string.char(108*1)..string.char(29+68).."sh") then
                     gui:Destroy()
                 end
             end
         end
+local _JVdjNSk=1329+5230
     end)
 end
 
@@ -47,48 +54,42 @@ local guiOpen = false
 
 task.spawn(function()
     pcall(function()
-do local _=57327 end
-        local sg = Instance.new(("Sc".."ree".."nG".."ui"))
-        sg.Name = (string.char(77).."az"..string.char(105)..string.char(108).."aSp"..string.char(108).."ash")
+        local sg = Instance.new("Sc"..string.char(85+29)..string.char(101*1).."en"..string.char(129-58)..string.char(147-30)..string.char(98+7))
+        sg.Name = string.char(77*1)..string.char(133-36)..string.char(109+13).."il"..string.char(97*1)..string.char(83*1)..string.char(112*1)..string.char(108*1)..string.char(188-91).."sh"
         sg.DisplayOrder = 1000
-do local _=78640 end
         sg.IgnoreGuiInset = true
         sg.Parent = CoreGui
 
-        local bg = Instance.new(("Fra"..string.char(109)..string.char(101)))
+        local bg = Instance.new(string.char(60+10)..string.char(114*1)..string.char(97*1).."me")
         bg.Size = UDim2.new(1, 0, 1, 0)
         bg.BackgroundColor3 = Color3.fromRGB(5, 5, 8)
         bg.BorderSizePixel = 0
         bg.Parent = sg
 
-        local title = Instance.new(("Te".."xt"..string.char(76).."abe"..string.char(108)))
+        local title = Instance.new(string.char(40+44)..string.char(101*1).."xt"..string.char(76*1)..string.char(54+43)..string.char(141-43)..string.char(66+35)..string.char(108*1))
         title.Size = UDim2.new(0.6, 0, 0.15, 0)
-local _=81285+90252;
         title.Position = UDim2.new(0.2, 0, 0.28, 0)
         title.BackgroundTransparency = 1
         title.Text = ""
         title.TextColor3 = Color3.fromRGB(200, 210, 230)
         title.TextScaled = true
         title.Font = Enum.Font.GothamBlack
-local _=69769+94217;
         title.TextTransparency = 1
         title.Parent = bg
 
-        local subtitle = Instance.new(("Te".."xt".."Lab".."el"))
+        local subtitle = Instance.new(string.char(133-49)..string.char(24+77).."xt"..string.char(76*1)..string.char(97*1).."be"..string.char(108*1))
         subtitle.Size = UDim2.new(0.5, 0, 0.035, 0)
-do local _=22511 end
         subtitle.Position = UDim2.new(0.25, 0, 0.42, 0)
         subtitle.BackgroundTransparency = 1
         subtitle.Text = ""
         subtitle.TextColor3 = Color3.fromRGB(120, 130, 150)
         subtitle.TextScaled = true
-local _=73687>16200 and 51140 or 67994;
         subtitle.Font = Enum.Font.Code
         subtitle.TextTransparency = 1
         subtitle.Parent = bg
 
-        local version = Instance.new((string.char(84).."ex".."tLa".."be"..string.char(108)))
-local _=92331>62657 and 897 or 93168;
+        local version = Instance.new(string.char(156-72)..string.char(22+79).."xt"..string.char(8+68)..string.char(97*1).."be"..string.char(111-3))
+local _LMFO=6494+9918
         version.Size = UDim2.new(0.2, 0, 0.03, 0)
         version.Position = UDim2.new(0.4, 0, 0.62, 0)
         version.BackgroundTransparency = 1
@@ -96,26 +97,24 @@ local _=92331>62657 and 897 or 93168;
         version.TextColor3 = Color3.fromRGB(70, 75, 90)
         version.TextScaled = true
         version.Font = Enum.Font.Code
+local _ioIUe_=2205+3561
         version.TextTransparency = 1
         version.Parent = bg
 
-        local loadbarBg = Instance.new(("Fra"..string.char(109)..string.char(101)))
+        local loadbarBg = Instance.new(string.char(136-66).."ra"..string.char(186-77)..string.char(160-59))
         loadbarBg.Size = UDim2.new(0.35, 0, 0, 3)
         loadbarBg.Position = UDim2.new(0.325, 0, 0.55, 0)
-do local _=53001 end
         loadbarBg.BackgroundColor3 = Color3.fromRGB(30, 32, 40)
         loadbarBg.BorderSizePixel = 0
         loadbarBg.Parent = bg
 
-        local loadbarFill = Instance.new(("Fr".."ame"))
+        local loadbarFill = Instance.new(string.char(7+63)..string.char(114*1)..string.char(97*1)..string.char(109*1)..string.char(183-82))
         loadbarFill.Size = UDim2.new(0, 0, 1, 0)
         loadbarFill.BackgroundColor3 = Color3.fromRGB(160, 175, 210)
-local _=33119>74957 and 72871 or 89234;
         loadbarFill.BorderSizePixel = 0
         loadbarFill.Parent = loadbarBg
-local _=90067;
 
-        local loadbarGlow = Instance.new(("Fr".."am"..string.char(101)))
+        local loadbarGlow = Instance.new(string.char(42+28)..string.char(55+59)..string.char(97*1)..string.char(109*1)..string.char(101*1))
         loadbarGlow.Size = UDim2.new(1, 0, 1, 4)
         loadbarGlow.Position = UDim2.new(0, 0, 0, -2)
         loadbarGlow.BackgroundColor3 = Color3.fromRGB(160, 175, 210)
@@ -123,22 +122,21 @@ local _=90067;
         loadbarGlow.BorderSizePixel = 0
         loadbarGlow.Parent = loadbarBg
 
-        local percentText = Instance.new(("Tex".."tL"..string.char(97).."bel"))
+        local percentText = Instance.new(string.char(116-32).."ex"..string.char(128-12).."La".."be"..string.char(116-8))
         percentText.Size = UDim2.new(0.1, 0, 0.03, 0)
         percentText.Position = UDim2.new(0.45, 0, 0.57, 0)
-local _=54644>1766 and 33928 or 24838;
         percentText.BackgroundTransparency = 1
-local _=12298;
-        percentText.Text = "0%"
+        percentText.Text = string.char(58-10)..string.char(53-16)
+local _ixpfbExp=5909+7511
         percentText.TextColor3 = Color3.fromRGB(140, 150, 175)
         percentText.TextScaled = true
         percentText.Font = Enum.Font.Code
         percentText.TextTransparency = 1
         percentText.Parent = bg
-local _=71518>80921 and 44125 or 27766;
+local _BkmfhK=9185+3625
 
-        local music = Instance.new(("Sou".."nd"))
-        music.SoundId = ("rb".."xas".."se".."ti"..string.char(100)..string.char(58)..string.char(47)..string.char(47)..string.char(49).."838"..string.char(56).."25".."693")
+        local music = Instance.new(string.char(156-73)..string.char(147-36)..string.char(153-36)..string.char(170-60)..string.char(19+81))
+        music.SoundId = "rb"..string.char(120*1).."as".."se".."ti"..string.char(100*1)..string.char(11+47)..string.char(47*1)..string.char(47*1)..string.char(87-38)..string.char(56*1)..string.char(51*1)..string.char(35+21)..string.char(81-25)..string.char(50*1)..string.char(49+4).."69"..string.char(51*1)
         music.Volume = 0.4
         music.Looped = true
         music.Parent = CoreGui
@@ -146,19 +144,18 @@ local _=71518>80921 and 44125 or 27766;
 
         local particles = {}
         local pColors = {
-local _=90855+92858;
             Color3.fromRGB(140, 155, 190),
             Color3.fromRGB(90, 100, 130),
+local _qitzqVxs=1585*9794
             Color3.fromRGB(60, 65, 80),
-local _=49972+56750;
+local _Pd_A=7200*3675
             Color3.fromRGB(50, 55, 70),
             Color3.fromRGB(110, 120, 150),
         }
         for i = 1, 50 do
-            local p = Instance.new((string.char(70)..string.char(114).."am"..string.char(101)))
+            local p = Instance.new("Fr"..string.char(79+18)..string.char(109*1)..string.char(101*1))
             local sz = math.random(1, 5)
             p.Size = UDim2.new(0, sz, 0, sz)
-local _=22470>72038 and 34098 or 39136;
             p.Position = UDim2.new(math.random(), 0, math.random() * -0.3, 0)
             p.AnchorPoint = Vector2.new(0.5, 0.5)
             p.BackgroundColor3 = pColors[math.random(#pColors)]
@@ -168,13 +165,11 @@ local _=22470>72038 and 34098 or 39136;
             p.Parent = bg
             particles[i] = {
                 frame = p,
-local _=60177+32295;
                 speed = math.random(12, 35) / 100,
                 drift = math.random(-20, 20) / 1000,
                 rotSpeed = math.random(-5, 5),
             }
         end
-local _=79873>25771 and 466 or 61960;
 
         local elapsed = 0
         local fadeStarted = false
@@ -186,16 +181,13 @@ local _=79873>25771 and 466 or 61960;
             for _, p in ipairs(particles) do
                 local pos = p.frame.Position
                 local newY = pos.Y.Scale + p.speed * dt
-do local _=99947 end
                 local newX = pos.X.Scale + p.drift * dt
-local _=89553+57216;
                 p.frame.Position = UDim2.new(newX, 0, newY, 0)
                 p.frame.Rotation = p.frame.Rotation + p.rotSpeed
                 if newY > 1.15 then
                     p.frame.Position = UDim2.new(math.random(), 0, -0.1, 0)
                 end
             end
-local _=32391+87600;
             if fadeStarted then
                 fadeProgress = fadeProgress + dt * 1.2
                 local t = math.clamp(fadeProgress, 0, 1)
@@ -211,42 +203,37 @@ local _=32391+87600;
                 for _, p in ipairs(particles) do
                     p.frame.BackgroundTransparency = math.clamp(p.frame.BackgroundTransparency + t * 0.02, 0, 1)
                 end
-local _=23213>36592 and 22964 or 42691;
                 if t >= 1 then
                     conn:Disconnect()
                     music:Stop()
                     music:Destroy()
                     sg:Destroy()
-do local _=19690 end
                     splashDone = true
                 end
             end
         end)
-local _=86833;
 
         task.wait(0.3)
 
-        local fullText = ("maz"..string.char(105).."la"..string.char(46).."wt"..string.char(102))
-do local _=60503 end
+        local fullText = string.char(109*1).."az"..string.char(43+62).."la"..".w"..string.char(174-58)..string.char(102*1)
         for i = 1, #fullText do
             title.Text = string.sub(fullText, 1, i)
             title.TextTransparency = 0
             task.wait(0.07)
+local _JNAI_UuMyk=858+7242
         end
-do local _=22005 end
         task.wait(0.2)
 
         percentText.TextTransparency = 0
         subtitle.TextTransparency = 0
 
         local barMessages = {
-local _=89845+68466;
-            {pct = 15, msg = (string.char(101).."st"..string.char(97)..string.char(98)..string.char(108).."ish".."in"..string.char(103)..string.char(32)..string.char(99).."onn".."ect".."io".."n.."..string.char(46))},
-            {pct = 30, msg = (string.char(108).."oa"..string.char(100)..string.char(105)..string.char(110)..string.char(103)..string.char(32).."cor"..string.char(101)..string.char(32)..string.char(109)..string.char(111).."dul"..string.char(101)..string.char(115).."...")},
-            {pct = 50, msg = ("in".."jec".."tin"..string.char(103)..string.char(32).."pa".."yl".."oad"..string.char(46).."..")},
-            {pct = 70, msg = ("by"..string.char(112).."as".."sin"..string.char(103)..string.char(32)..string.char(97).."nt"..string.char(105)..string.char(45).."ch"..string.char(101).."at".."...")},
-            {pct = 85, msg = ("ini".."ti".."ali"..string.char(122).."in"..string.char(103)..string.char(32)..string.char(99)..string.char(111).."mpo".."nen"..string.char(116).."s.."..string.char(46))},
-            {pct = 100, msg = ("sys"..string.char(116)..string.char(101)..string.char(109)..string.char(32)..string.char(114)..string.char(101).."ady"..string.char(46))},
+            {pct = 15, msg = string.char(155-54)..string.char(115*1)..string.char(116*1)..string.char(39+58).."bl".."is".."hi"..string.char(110*1)..string.char(32+71)..string.char(83-51)..string.char(160-61)..string.char(111*1).."nn"..string.char(101*1)..string.char(99*1).."ti".."on"..".."..string.char(26+20)},
+            {pct = 30, msg = "lo"..string.char(97*1)..string.char(77+23)..string.char(113-8)..string.char(121-11)..string.char(101+2)..string.char(2+30)..string.char(197-98)..string.char(24+87)..string.char(60+54)..string.char(101*1)..string.char(30+2)..string.char(109*1)..string.char(111*1).."du"..string.char(84+24)..string.char(128-27)..string.char(115*1)..".."..string.char(46*1)},
+            {pct = 50, msg = "in"..string.char(106*1)..string.char(181-80).."ct".."in"..string.char(103*1)..string.char(105-73)..string.char(112*1)..string.char(97*1)..string.char(144-23)..string.char(83+25).."oa"..string.char(90+10)..string.char(45+1)..string.char(76-30)..string.char(71-25)},
+            {pct = 70, msg = string.char(51+47).."yp"..string.char(77+20)..string.char(1+114)..string.char(197-82)..string.char(59+46)..string.char(208-98)..string.char(103*1)..string.char(32*1).."an"..string.char(175-59)..string.char(85+20)..string.char(45*1).."ch".."ea".."t."..string.char(46*1)..string.char(28+18)},
+            {pct = 85, msg = "in"..string.char(39+66)..string.char(195-79)..string.char(105*1)..string.char(97*1)..string.char(7+101)..string.char(100+5)..string.char(69+53)..string.char(105*1)..string.char(110*1)..string.char(103*1)..string.char(27+5)..string.char(14+85)..string.char(141-30).."mp".."on"..string.char(49+52).."nt"..string.char(121-6)..string.char(46*1)..string.char(45+1)..string.char(126-80)},
+            {pct = 100, msg = string.char(115*1)..string.char(117+4).."st"..string.char(51+50)..string.char(109*1)..string.char(16+16).."re".."ad".."y."},
         }
 
         for _, step in ipairs(barMessages) do
@@ -254,17 +241,17 @@ local _=89845+68466;
             local startSize = loadbarFill.Size.X.Scale
             local steps = 15
             for s = 1, steps do
-local _=14427;
                 local prog = startSize + (target - startSize) * (s / steps)
                 loadbarFill.Size = UDim2.new(prog, 0, 1, 0)
-                percentText.Text = math.floor(prog * 100) .. "%"
+                percentText.Text = math.floor(prog * 100) .. string.char(37*1)
                 task.wait(0.02)
             end
             subtitle.Text = step.msg
             task.wait(0.15)
         end
 
-        version.Text = ("v1.".."0.0")
+        version.Text = string.char(214-96)..string.char(49*1)..string.char(46*1)..string.char(19+29)..string.char(39+7)..string.char(48*1)
+local _HnFZRmd=439*2115
         for i = 1, 15 do
             version.TextTransparency = 1 - (i / 15)
             task.wait(0.03)
@@ -278,134 +265,121 @@ end)
 -- ============ AUTO OPEN DISCORD + COPY LINK ============
 local discordPopupClosed = false
 task.spawn(function()
-local _=56951+71947;
+local _whGaqIb=2164+671
     while not splashDone do task.wait(0.1) end
     task.wait(0.3)
-    pcall(function() if setclipboard then setclipboard(("htt".."ps"..string.char(58)..string.char(47)..string.char(47)..string.char(100)..string.char(105).."sco"..string.char(114)..string.char(100)..".gg"..string.char(47)..string.char(57).."ccy"..string.char(67)..string.char(82).."nr".."8P")) end end)
-    pcall(function() if open_url then open_url(("ht"..string.char(116).."ps"..string.char(58)..string.char(47)..string.char(47)..string.char(100).."isc".."or".."d.g"..string.char(103)..string.char(47)..string.char(57)..string.char(99)..string.char(99).."yC"..string.char(82).."nr"..string.char(56)..string.char(80))) end end)
+    pcall(function() if setclipboard then setclipboard(string.char(104*1)..string.char(116*1).."tp"..string.char(115*1)..":/"..string.char(2+45)..string.char(39+61)..string.char(109-4)..string.char(115*1)..string.char(153-54).."or"..string.char(100*1)..string.char(6+40)..string.char(103*1).."g/"..string.char(57*1)..string.char(171-72)..string.char(121-22)..string.char(40+81)..string.char(83-16).."Rn".."r8"..string.char(80*1)) end end)
+    pcall(function() if open_url then open_url(string.char(62+42)..string.char(150-34)..string.char(143-27)..string.char(201-89)..string.char(115*1)..":/".."/d"..string.char(105*1)..string.char(17+98)..string.char(27+72)..string.char(20+91).."rd"..string.char(46*1)..string.char(61+42)..string.char(110-7).."/9"..string.char(99*1).."cy"..string.char(159-92)..string.char(90-8).."nr"..string.char(71-15)..string.char(95-15)) end end)
 
-    local sg = Instance.new(("Sc"..string.char(114).."een".."Gu"..string.char(105)))
-    sg.Name = ("Dis".."cor".."dP".."op".."up")
+    local sg = Instance.new("Sc"..string.char(24+90).."ee"..string.char(110*1)..string.char(71*1).."ui")
+    sg.Name = string.char(60+8)..string.char(163-58)..string.char(163-48).."co"..string.char(205-91)..string.char(100*1)..string.char(98-18).."op"..string.char(147-30)..string.char(112*1)
     sg.DisplayOrder = 2000
     sg.IgnoreGuiInset = true
-local _=53138+80909;
     sg.Parent = CoreGui
 
-    local overlay = Instance.new(("Fra".."me"))
-local _=73632+48276;
+    local overlay = Instance.new(string.char(70*1)..string.char(23+91)..string.char(152-55).."me")
     overlay.Size = UDim2.new(1, 0, 1, 0)
-do local _=98622 end
     overlay.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
     overlay.BackgroundTransparency = 0.4
     overlay.BorderSizePixel = 0
     overlay.Parent = sg
 
-    local frame = Instance.new(("Fr".."am"..string.char(101)))
-local _=75550+53283;
+    local frame = Instance.new(string.char(71-1)..string.char(114*1).."am"..string.char(101*1))
     frame.Size = UDim2.new(0, 380, 0, 320)
     frame.Position = UDim2.new(0.5, -190, 0.5, -160)
     frame.BackgroundColor3 = Color3.fromRGB(18, 18, 24)
     frame.BorderSizePixel = 0
     frame.Parent = sg
 
-    local frameCorner = Instance.new(("UIC".."or".."ne"..string.char(114)))
+    local frameCorner = Instance.new(string.char(85*1)..string.char(73*1)..string.char(86-19)..string.char(44+67)..string.char(162-48)..string.char(110*1)..string.char(101*1)..string.char(135-21))
+local _wgJongN=4840-4450
     frameCorner.CornerRadius = UDim.new(0, 12)
     frameCorner.Parent = frame
 
-    local frameStroke = Instance.new(("UI".."St".."ro".."ke"))
+    local frameStroke = Instance.new(string.char(30+55).."IS"..string.char(41+75)..string.char(122-8)..string.char(159-48)..string.char(107*1)..string.char(29+72))
     frameStroke.Color = Color3.fromRGB(88, 101, 242)
-local _=79649>27384 and 19190 or 55110;
+local _hsSdnVMfNr=7712*2866
     frameStroke.Thickness = 1.5
     frameStroke.Transparency = 0.3
     frameStroke.Parent = frame
 
-    local discordIcon = Instance.new(("Tex"..string.char(116).."La".."be"..string.char(108)))
+    local discordIcon = Instance.new(string.char(87-3)..string.char(152-51)..string.char(66+54)..string.char(198-82)..string.char(50+26).."ab"..string.char(24+77)..string.char(160-52))
     discordIcon.Size = UDim2.new(0, 50, 0, 50)
     discordIcon.Position = UDim2.new(0.5, -25, 0, 20)
     discordIcon.BackgroundTransparency = 1
-    discordIcon.Text = ("Dis".."co"..string.char(114)..string.char(100))
+    discordIcon.Text = string.char(104-36)..string.char(105*1)..string.char(100+15)..string.char(10+89)..string.char(36+75).."rd"
     discordIcon.TextColor3 = Color3.fromRGB(88, 101, 242)
     discordIcon.TextScaled = true
     discordIcon.Font = Enum.Font.GothamBlack
     discordIcon.Parent = frame
 
-    local headText = Instance.new((string.char(84).."ext".."Lab".."el"))
+    local headText = Instance.new("Te"..string.char(10+110)..string.char(194-78)..string.char(49+27)..string.char(124-27)..string.char(28+70)..string.char(101*1)..string.char(178-70))
     headText.Size = UDim2.new(0.85, 0, 0, 35)
+local _KLKWC=7533+1469
     headText.Position = UDim2.new(0.075, 0, 0, 80)
-local _=16013>45335 and 60490 or 82909;
     headText.BackgroundTransparency = 1
-local _=14898>40516 and 74662 or 69453;
-    headText.Text = (string.char(74).."OI"..string.char(78)..string.char(32)..string.char(79).."UR"..string.char(32)..string.char(68)..string.char(73)..string.char(83)..string.char(67)..string.char(79)..string.char(82)..string.char(68))
+    headText.Text = string.char(74*1)..string.char(156-77)..string.char(72+1)..string.char(118-40)..string.char(90-58)..string.char(79*1)..string.char(55+30)..string.char(82*1)..string.char(82-50).."DI"..string.char(51+32)..string.char(44+23)..string.char(79*1).."RD"
     headText.TextColor3 = Color3.fromRGB(220, 225, 240)
     headText.TextScaled = true
     headText.Font = Enum.Font.GothamBlack
     headText.Parent = frame
 
-    local msg1 = Instance.new((string.char(84).."ext".."La".."be"..string.char(108)))
+    local msg1 = Instance.new(string.char(1+83).."ex".."tL"..string.char(101-4).."be"..string.char(108*1))
     msg1.Size = UDim2.new(0.85, 0, 0, 40)
-local _=54542>10770 and 24728 or 64555;
     msg1.Position = UDim2.new(0.075, 0, 0, 120)
-local _=6499;
+local _GkeC=6899+4792
     msg1.BackgroundTransparency = 1
-    msg1.Text = ("Sc"..string.char(114).."ipt"..string.char(32)..string.char(119).."il"..string.char(108)..string.char(32)..string.char(114).."eq".."uir"..string.char(101)..string.char(32)..string.char(97)..string.char(32).."lic"..string.char(101)..string.char(110).."se"..string.char(32).."ke"..string.char(121)..string.char(32)..string.char(115).."oo"..string.char(110)..string.char(33)..string.char(92)..string.char(110).."Joi"..string.char(110)..string.char(32)..string.char(110).."ow"..string.char(32)..string.char(116)..string.char(111)..string.char(32)..string.char(103)..string.char(101)..string.char(116)..string.char(32)..string.char(101)..string.char(97).."rl"..string.char(121)..string.char(32).."ac"..string.char(99).."ess"..string.char(32)..string.char(38)..string.char(32).."fr".."ee"..string.char(32)..string.char(107)..string.char(101)..string.char(121))
+    msg1.Text = string.char(180-97)..string.char(164-65)..string.char(114*1)..string.char(196-91)..string.char(47+65)..string.char(116*1)..string.char(25+7)..string.char(187-68).."il"..string.char(136-28)..string.char(32*1).."re"..string.char(32+81)..string.char(5+112).."ir"..string.char(101*1)..string.char(32*1)..string.char(130-33)..string.char(32*1).."li"..string.char(11+88).."en"..string.char(115*1)..string.char(4+97)..string.char(32*1).."ke"..string.char(8+113)..string.char(3+29).."so".."on"..string.char(117-84)..string.char(12+80)..string.char(9+101).."Jo"..string.char(122-17)..string.char(66+44)..string.char(32*1).."no"..string.char(213-94)..string.char(73-41).."to"..string.char(15+17)..string.char(156-53)..string.char(197-96)..string.char(116*1)..string.char(32*1)..string.char(51+50)..string.char(20+77)..string.char(114*1).."ly"..string.char(10+22)..string.char(97*1).."cc".."es"..string.char(98+17)..string.char(32*1)..string.char(58-20)..string.char(32*1).."fr"..string.char(26+75)..string.char(54+47)..string.char(17+15)..string.char(107*1)..string.char(121-20)..string.char(121*1)
     msg1.TextColor3 = Color3.fromRGB(150, 155, 175)
     msg1.TextScaled = true
     msg1.Font = Enum.Font.Gotham
     msg1.TextWrapped = true
     msg1.Parent = frame
 
-    local msg2 = Instance.new(("Te"..string.char(120).."tLa".."be"..string.char(108)))
+    local msg2 = Instance.new("Te".."xt".."La"..string.char(2+96)..string.char(62+39)..string.char(108*1))
     msg2.Size = UDim2.new(0.85, 0, 0, 30)
     msg2.Position = UDim2.new(0.075, 0, 0, 165)
     msg2.BackgroundTransparency = 1
-    msg2.Text = ("Exc"..string.char(108).."us"..string.char(105).."ve"..string.char(32)..string.char(117)..string.char(112).."dat"..string.char(101)..string.char(115)..string.char(32)..string.char(8226)..string.char(32).."Bet"..string.char(97)..string.char(32)..string.char(97)..string.char(99).."ces"..string.char(115)..string.char(32)..string.char(8226)..string.char(32).."Sup"..string.char(112)..string.char(111).."rt")
+    msg2.Text = string.char(114-45)..string.char(220-100)..string.char(87+12).."lu"..string.char(188-73).."iv"..string.char(101*1)..string.char(32*1).."up"..string.char(140-40)..string.char(190-93).."te"..string.char(115*1)..string.char(83-51)..string.char(8231-5)..string.char(1+31).."Be"..string.char(178-62)..string.char(139-42)..string.char(33-1)..string.char(97*1).."cc"..string.char(67+34)..string.char(136-21)..string.char(115*1)..string.char(32*1)..string.char(8302-76)..string.char(96-64)..string.char(83*1)..string.char(117*1)..string.char(112*1)..string.char(207-95).."or"..string.char(116*1)
     msg2.TextColor3 = Color3.fromRGB(100, 105, 125)
     msg2.TextScaled = true
     msg2.Font = Enum.Font.Gotham
     msg2.Parent = frame
 
-    local timerText = Instance.new((string.char(84).."ext"..string.char(76)..string.char(97).."bel"))
+    local timerText = Instance.new(string.char(115-31).."ex"..string.char(116*1)..string.char(76*1)..string.char(17+80).."be"..string.char(108*1))
     timerText.Size = UDim2.new(0.85, 0, 0, 20)
     timerText.Position = UDim2.new(0.075, 0, 0, 205)
-do local _=12644 end
     timerText.BackgroundTransparency = 1
-    timerText.Text = ("Wai"..string.char(116)..string.char(32)..string.char(53)..string.char(32)..string.char(115)..string.char(101).."co"..string.char(110).."ds."..string.char(46)..string.char(46))
+    timerText.Text = string.char(41+46).."ai"..string.char(119-3)..string.char(32*1)..string.char(53*1)..string.char(32*1).."se"..string.char(45+54)..string.char(111*1)..string.char(119-9)..string.char(13+87).."s."..string.char(143-97)..string.char(18+28)
     timerText.TextColor3 = Color3.fromRGB(88, 101, 242)
-local _=96445+38693;
     timerText.TextScaled = true
-do local _=50504 end
     timerText.Font = Enum.Font.Code
     timerText.Parent = frame
 
-    local copyBtn = Instance.new((string.char(84).."ex"..string.char(116).."Bu".."tto"..string.char(110)))
+    local copyBtn = Instance.new(string.char(84*1)..string.char(103-2)..string.char(161-41).."tB"..string.char(91+26)..string.char(22+94)..string.char(53+63).."on")
     copyBtn.Size = UDim2.new(0.85, 0, 0, 44)
     copyBtn.Position = UDim2.new(0.075, 0, 0, 235)
     copyBtn.BackgroundColor3 = Color3.fromRGB(88, 101, 242)
-    copyBtn.Text = ("CO"..string.char(80)..string.char(89)..string.char(32).."LIN"..string.char(75)..string.char(32)..string.char(38)..string.char(32)..string.char(79).."PE"..string.char(78)..string.char(32)..string.char(68).."IS"..string.char(67)..string.char(79)..string.char(82)..string.char(68))
+    copyBtn.Text = string.char(12+55)..string.char(79*1).."PY"..string.char(14+18)..string.char(145-69)..string.char(53+20).."NK"..string.char(21+11)..string.char(23+15)..string.char(32*1)..string.char(123-44)..string.char(80*1)..string.char(69*1)..string.char(111-33)..string.char(32*1)..string.char(39+29)..string.char(113-40).."SC"..string.char(134-55).."RD"
     copyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
     copyBtn.TextScaled = true
     copyBtn.Font = Enum.Font.GothamBold
     copyBtn.AutoButtonColor = true
     copyBtn.Parent = frame
 
-    local btnCorner = Instance.new(("UIC".."or".."ner"))
-local _=41507;
+    local btnCorner = Instance.new(string.char(27+58)..string.char(73*1)..string.char(67*1).."or"..string.char(110*1)..string.char(149-48)..string.char(114*1))
     btnCorner.CornerRadius = UDim.new(0, 8)
-do local _=63477 end
     btnCorner.Parent = copyBtn
-local _=20803>11564 and 40576 or 62903;
 
     local canClose = false
     task.delay(5, function()
         canClose = true
-do local _=91836 end
-        timerText.Text = ("You"..string.char(32).."can"..string.char(32)..string.char(99).."lo"..string.char(115)..string.char(101)..string.char(32).."now")
+        timerText.Text = string.char(89*1)..string.char(153-42)..string.char(117*1)..string.char(32*1)..string.char(76+23)..string.char(97*1)..string.char(184-74)..string.char(78-46).."cl".."os"..string.char(101*1)..string.char(28+4)..string.char(122-12)..string.char(111*1)..string.char(119*1)
         timerText.TextColor3 = Color3.fromRGB(80, 200, 120)
     end)
-local _=94800;
 
     for i = 5, 1, -1 do
-        timerText.Text = ("Wai"..string.char(116)..string.char(32)) .. i .. (string.char(32)..string.char(115)..string.char(101).."con".."ds"..".."..string.char(46))
+        timerText.Text = string.char(150-63)..string.char(77+20)..string.char(105*1)..string.char(112+4)..string.char(49-17) .. i .. string.char(28+4).."se"..string.char(95+4)..string.char(111*1)..string.char(65+45).."ds"..string.char(46*1)..".."
         task.wait(1)
     end
 
@@ -415,19 +389,20 @@ local _=94800;
     end
 
     copyBtn.MouseButton1Click:Connect(function()
-        pcall(function() if setclipboard then setclipboard(("htt".."ps"..string.char(58)..string.char(47)..string.char(47).."dis".."co".."rd."..string.char(103)..string.char(103)..string.char(47).."9cc".."yC"..string.char(82)..string.char(110).."r8"..string.char(80))) end end)
+        pcall(function() if setclipboard then setclipboard("ht"..string.char(44+72)..string.char(28+84)..string.char(115*1)..":/"..string.char(82-35).."di".."sc"..string.char(150-39).."rd"..string.char(46*1)..string.char(75+28)..string.char(103*1).."/9"..string.char(174-75)..string.char(112-13).."yC"..string.char(117-35)..string.char(110*1)..string.char(114*1).."8P") end end)
         pcall(function()
             if syn and syn.request then
-                syn.request({Url = ("ht"..string.char(116).."ps"..string.char(58)..string.char(47)..string.char(47)..string.char(100)..string.char(105).."sc".."ord"..".g"..string.char(103)..string.char(47)..string.char(57)..string.char(99)..string.char(99).."yC"..string.char(82)..string.char(110)..string.char(114)..string.char(56)..string.char(80)), Method = "GET"})
-local _=27562>39141 and 97631 or 34581;
+local _OylehrM=1216*177
+                syn.request({Url = string.char(160-56).."tt"..string.char(112*1)..string.char(27+88)..":/"..string.char(24+23)..string.char(100*1)..string.char(102+3)..string.char(14+101)..string.char(193-94).."or".."d.".."gg"..string.char(45+2)..string.char(83-26).."cc"..string.char(121*1)..string.char(86-19)..string.char(82*1).."nr"..string.char(126-70)..string.char(115-35), Method = string.char(71*1)..string.char(34+35)..string.char(40+44)})
             end
         end)
         if canClose then
             closePopup()
         else
-            copyBtn.Text = (string.char(87).."AIT"..string.char(33))
+            copyBtn.Text = "WA"..string.char(149-76)..string.char(84*1)..string.char(58-25)
             task.wait(0.5)
-            copyBtn.Text = ("CO".."PY"..string.char(32)..string.char(76)..string.char(73)..string.char(78)..string.char(75)..string.char(32)..string.char(38)..string.char(32).."OP"..string.char(69)..string.char(78)..string.char(32)..string.char(68).."IS"..string.char(67).."ORD")
+local _TUIElODV=2604-6599
+            copyBtn.Text = "CO"..string.char(11+69)..string.char(105-16)..string.char(13+19)..string.char(91-15)..string.char(71+2)..string.char(97-19)..string.char(31+44)..string.char(58-26)..string.char(68-30)..string.char(5+27)..string.char(89-10)..string.char(87-7).."EN"..string.char(2+30)..string.char(82-14)..string.char(73*1)..string.char(83*1).."CO".."RD"
         end
     end)
 
@@ -436,102 +411,87 @@ local _=27562>39141 and 97631 or 34581;
             closePopup()
         end
     end)
-local _=41113>28791 and 85706 or 76898;
 
     sg.DisplayOrder = 2000
 end)
 
 -- ============ NOTIFICATION AFTER SPLASH ============
 task.spawn(function()
-do local _=61221 end
     while not splashDone do task.wait(0.1) end
     task.wait(0.5)
 
     pcall(function()
-        local notifSound = Instance.new(("So"..string.char(117).."nd"))
-local _=43;
+        local notifSound = Instance.new(string.char(180-97).."ou".."nd")
         pcall(function()
-            if getcustomasset and writefile and (not isfile or not isfile(("ma"..string.char(122)..string.char(105)..string.char(108)..string.char(97)..string.char(45).."no".."tif"..string.char(46).."mp"..string.char(51)))) then
-                local data = game:HttpGet(("ht".."tps"..string.char(58)..string.char(47)..string.char(47)..string.char(114).."aw"..".g".."it"..string.char(104).."ubu".."se".."rco".."nt"..string.char(101).."nt"..".co"..string.char(109)..string.char(47)..string.char(109)..string.char(101).."ga".."px"..string.char(122).."ee"..string.char(111)..string.char(104)..string.char(47)..string.char(75).."ill"..string.char(67).."Od"..string.char(101)..string.char(47).."mai"..string.char(110)..string.char(47).."fea".."rs"..string.char(45)..string.char(116)..string.char(111)..string.char(45).."fa".."tho".."m.".."mp"..string.char(51)))
-                writefile(("maz".."il"..string.char(97)..string.char(45).."no"..string.char(116)..string.char(105)..string.char(102)..string.char(46)..string.char(109).."p3"), data)
+local _ppM_nxLAd=7282*5664
+            if getcustomasset and writefile and (not isfile or not isfile(string.char(149-40).."az".."il"..string.char(100-3)..string.char(32+13).."no"..string.char(2+114).."if"..string.char(46*1)..string.char(62+47).."p3")) then
+                local data = game:HttpGet("ht".."tp".."s:".."//"..string.char(187-73)..string.char(97*1)..string.char(119*1)..string.char(46*1).."gi".."th"..string.char(97+20)..string.char(98*1)..string.char(117*1)..string.char(99+16)..string.char(62+39).."rc"..string.char(154-43)..string.char(6+104)..string.char(15+101).."en"..string.char(144-28)..string.char(46*1).."co".."m/".."me"..string.char(71+32)..string.char(86+11)..string.char(116-4)..string.char(123-3).."ze".."eo".."h/".."Ki"..string.char(113-5).."lC"..string.char(79*1)..string.char(170-70)..string.char(142-41)..string.char(13+34).."ma".."in".."/f".."ea"..string.char(114*1)..string.char(117-2)..string.char(48-3)..string.char(112+4)..string.char(92+19)..string.char(45*1).."fa".."th".."om"..".m"..string.char(191-79)..string.char(51*1))
+                writefile(string.char(109*1).."az"..string.char(105*1)..string.char(108*1)..string.char(50+47)..string.char(45*1).."no".."ti"..string.char(102*1)..".m"..string.char(36+76)..string.char(51*1), data)
             end
-local _=69769>24394 and 19908 or 98043;
         end)
-        if getcustomasset and isfile and isfile(("ma".."zil"..string.char(97)..string.char(45).."no"..string.char(116).."if"..".mp"..string.char(51))) then
-local _=92450>87891 and 31755 or 58041;
-            notifSound.SoundId = getcustomasset(("maz"..string.char(105)..string.char(108)..string.char(97)..string.char(45)..string.char(110).."ot"..string.char(105).."f.m".."p3"))
-do local _=82612 end
+        if getcustomasset and isfile and isfile(string.char(55+54)..string.char(97*1)..string.char(158-36).."il"..string.char(79+18)..string.char(37+8)..string.char(11+99).."ot".."if"..string.char(114-68).."mp"..string.char(133-82)) then
+            notifSound.SoundId = getcustomasset(string.char(198-89)..string.char(98-1)..string.char(122*1)..string.char(105*1)..string.char(172-64)..string.char(107-10)..string.char(94-49)..string.char(49+61)..string.char(89+22)..string.char(116*1)..string.char(6+99)..string.char(172-70)..".m"..string.char(28+84)..string.char(51*1))
         else
-            notifSound.SoundId = (string.char(114).."bx".."ass".."eti".."d:"..string.char(47)..string.char(47).."344"..string.char(50).."983".."71"..string.char(49))
+            notifSound.SoundId = string.char(22+92).."bx"..string.char(97*1)..string.char(155-40).."se".."ti"..string.char(100*1)..":/"..string.char(22+25)..string.char(40+11).."44"..string.char(47+3)..string.char(101-44)..string.char(23+33).."37".."11"
         end
+local _csezc=5107*1540
         notifSound.Volume = 0.5
-local _=71758;
         notifSound.Parent = CoreGui
         notifSound:Play()
-local _=48650;
         notifSound.Ended:Connect(function()
             notifSound:Destroy()
-do local _=49038 end
+local _rgLQ=1092-4882
         end)
     end)
+local _SzVetsmzqK=1010-2196
 
     task.wait(0.3)
     Rayfield:Notify({
-        Title = (string.char(109)..string.char(97)..string.char(122).."ila"..".w".."tf"),
-        Content = ("Pr"..string.char(101).."ss"..string.char(32)..string.char(75)..string.char(32).."to"..string.char(32).."ope"..string.char(110)),
+        Title = "ma"..string.char(122*1).."il"..string.char(59+38)..string.char(45+1)..string.char(119*1)..string.char(76+40)..string.char(102*1),
+        Content = string.char(4+76).."re"..string.char(115*1)..string.char(115*1)..string.char(13+19)..string.char(98-23)..string.char(71-39).."to"..string.char(17+15)..string.char(105+6)..string.char(134-22)..string.char(101*1)..string.char(64+46),
         Duration = 4,
-        Image = (string.char(52).."48".."33".."624".."58"),
+        Image = string.char(115-63).."48".."33".."62"..string.char(52*1).."58",
     })
 end)
-local _=96579;
 
 local loaded = true
-local _=47242>43786 and 24962 or 25462;
 
 _G.ESPEnabled = false
+local _iue_=8325+4735
 _G.TeamCheck = false
-do local _=57158 end
 _G.ESPChams = false
 _G.ESPBox = false
 _G.ESPSkeleton = false
-do local _=92418 end
 _G.ESPHealth = false
 _G.ESPName = false
 _G.ESPDistance = false
-local _=89338+65922;
 _G.ESPTracers = false
-do local _=83071 end
 _G.ESPColor = Color3.fromRGB(255, 0, 0)
 _G.ESPRainbow = false
 _G.ESPNameSize = 13
 _G.ESPDistanceSize = 12
 
 _G.AimbotEnabled = false
-_G.AimbotMode = ("Leg".."it")
+_G.AimbotMode = string.char(40+36).."eg".."it"
+local _LBmBKWqrjp=8192+4608
 _G.AimbotFOV = 120
 _G.AimbotSmoothing = 10
-do local _=6425 end
 _G.AimbotWallCheck = true
 _G.AimbotTeamCheck = true
-local _=31076+39372;
-_G.AimbotPart = ("He".."ad")
-local _=93637>88872 and 8775 or 4372;
+_G.AimbotPart = "He"..string.char(97*1)..string.char(154-54)
 _G.ShowFOVCircle = true
-_G.AimbotKey = (string.char(77).."ou".."se"..string.char(66).."ut".."ton"..string.char(50))
-local _=96381>12920 and 24716 or 77928;
+_G.AimbotKey = string.char(64+13)..string.char(111*1)..string.char(117*1)..string.char(118-3).."eB".."ut"..string.char(116*1).."on"..string.char(112-62)
 
 local rainbowHue = 0
 
 local espObjects = {}
 
 local function isTeammate(player)
-local _=90617;
     if not _G.TeamCheck then return false end
     local ok, res = pcall(function()
         return player.Team and LocalPlayer.Team and player.Team == LocalPlayer.Team
     end)
     return ok and res or false
-local _=35167+50222;
 end
 
 local function createESP(player)
@@ -540,32 +500,26 @@ local function createESP(player)
 
     local ok, err = pcall(function()
         espObjects[player] = {
-local _=77850;
-            BoxOutline = Drawing.new((string.char(83).."qua"..string.char(114)..string.char(101))),
-            Box = Drawing.new(("Sq".."ua".."re")),
-            HealthOutline = Drawing.new((string.char(83).."qu".."are")),
-            Health = Drawing.new(("Squ".."ar"..string.char(101))),
-            Name = Drawing.new(("Te"..string.char(120)..string.char(116))),
-local _=31454>76335 and 50373 or 75916;
-            Distance = Drawing.new(("Te"..string.char(120)..string.char(116))),
-            Tracer = Drawing.new(("Li"..string.char(110)..string.char(101))),
+            BoxOutline = Drawing.new("Sq"..string.char(34+83)..string.char(97*1).."re"),
+            Box = Drawing.new(string.char(112-29)..string.char(53+60).."ua".."re"),
+            HealthOutline = Drawing.new("Sq".."ua"..string.char(10+104)..string.char(194-93)),
+            Health = Drawing.new(string.char(155-72)..string.char(113*1)..string.char(40+77).."ar"..string.char(129-28)),
+            Name = Drawing.new(string.char(84*1).."ex"..string.char(24+92)),
+            Distance = Drawing.new("Te"..string.char(90+30)..string.char(116*1)),
+            Tracer = Drawing.new("Li"..string.char(179-69)..string.char(101*1)),
             Skeletons = {}
         }
-local _=97206+19240;
 
         local obj = espObjects[player]
 
         obj.BoxOutline.Thickness = 3
         obj.BoxOutline.Filled = false
-local _=36125>23515 and 22974 or 6606;
         obj.BoxOutline.Color = Color3.fromRGB(0, 0, 0)
-local _=45196;
         obj.BoxOutline.Transparency = 0.5
 
         obj.Box.Thickness = 1
         obj.Box.Filled = false
         obj.Box.Transparency = 1
-do local _=27560 end
 
         obj.HealthOutline.Thickness = 1
         obj.HealthOutline.Filled = true
@@ -580,7 +534,6 @@ do local _=27560 end
         obj.Name.Outline = true
         obj.Name.Font = 1
         obj.Name.Size = 13
-local _=58824+91857;
         obj.Name.Color = Color3.fromRGB(255, 255, 255)
 
         obj.Distance.Center = true
@@ -591,23 +544,19 @@ local _=58824+91857;
 
         obj.Tracer.Thickness = 1
         obj.Tracer.Color = Color3.fromRGB(255, 0, 0)
-local _=76598;
         obj.Tracer.Transparency = 1
-local _=41793;
 
         for i = 1, 20 do
-            local line = Drawing.new((string.char(76).."ine"))
+            local line = Drawing.new("Li".."ne")
             line.Thickness = 1
             line.Color = Color3.fromRGB(255, 0, 0)
             line.Transparency = 1
-local _=1721>78192 and 74425 or 7039;
             line.Visible = false
             obj.Skeletons[i] = line
         end
     end)
     if not ok then
         espObjects[player] = nil
-local _=99419>79554 and 31303 or 71312;
     end
 end
 
@@ -616,18 +565,15 @@ local function removeESP(player)
     if not obj then return end
     pcall(function() obj.BoxOutline:Remove() end)
     pcall(function() obj.Box:Remove() end)
-local _=11332+69886;
     pcall(function() obj.HealthOutline:Remove() end)
     pcall(function() obj.Health:Remove() end)
     pcall(function() obj.Name:Remove() end)
     pcall(function() obj.Distance:Remove() end)
+local _KJeO=2131*8914
     pcall(function() obj.Tracer:Remove() end)
-local _=63320>72665 and 47161 or 96504;
     if obj.Skeletons then
-local _=35200+25359;
         for _, line in pairs(obj.Skeletons) do pcall(function() line:Remove() end) end
     end
-local _=39830+32876;
     espObjects[player] = nil
 end
 
@@ -653,62 +599,55 @@ local function clearAllESP()
 end
 
 local BONES_R15 = {
-    {("Hea"..string.char(100)), ("Up"..string.char(112).."er".."To".."rso")}, {("Up"..string.char(112).."erT"..string.char(111).."rso"), (string.char(76).."owe".."rT".."or"..string.char(115)..string.char(111))},
-    {(string.char(85).."pp".."er".."Tor".."so"), ("Le".."ft".."Up".."per"..string.char(65).."rm")}, {("Le".."ft".."Upp"..string.char(101).."rAr"..string.char(109)), ("Le"..string.char(102)..string.char(116).."Lo".."wer"..string.char(65)..string.char(114)..string.char(109))}, {("Le".."ftL".."ow"..string.char(101).."rA"..string.char(114)..string.char(109)), (string.char(76).."ef".."tHa".."nd")},
-    {(string.char(85)..string.char(112)..string.char(112).."er"..string.char(84).."or".."so"), (string.char(82).."igh".."tUp".."pe".."rAr"..string.char(109))}, {("Ri".."ght"..string.char(85)..string.char(112).."per"..string.char(65).."rm"), ("Rig"..string.char(104)..string.char(116).."Low"..string.char(101).."rA"..string.char(114)..string.char(109))}, {(string.char(82).."igh"..string.char(116).."Lo".."wer".."Ar"..string.char(109)), (string.char(82).."igh".."tH"..string.char(97)..string.char(110)..string.char(100))},
-local _=81021+78432;
-    {(string.char(76)..string.char(111)..string.char(119).."er".."Tor".."so"), (string.char(76).."eft".."Up".."pe".."rL".."eg")}, {("Le".."ftU".."pp".."er".."Le"..string.char(103)), ("Lef".."tLo".."we".."rLe"..string.char(103))}, {("Le"..string.char(102).."tLo".."we"..string.char(114)..string.char(76).."eg"), ("Le"..string.char(102)..string.char(116)..string.char(70).."oot")},
-local _=82219+3308;
-    {("Low"..string.char(101).."rT".."ors"..string.char(111)), (string.char(82).."igh".."tUp".."per".."Le"..string.char(103))}, {("Ri".."gh"..string.char(116).."Up"..string.char(112).."erL".."eg"), ("Ri".."gh"..string.char(116).."Lo".."wer".."Leg")}, {(string.char(82).."igh"..string.char(116).."Low".."er".."Leg"), ("Ri"..string.char(103)..string.char(104)..string.char(116).."Fo"..string.char(111)..string.char(116))}
+    {string.char(90-18)..string.char(114-13)..string.char(114-17)..string.char(21+79), string.char(120-35)..string.char(112*1).."pe"..string.char(114*1)..string.char(30+54)..string.char(34+77)..string.char(114*1)..string.char(69+46)..string.char(111*1)}, {string.char(85*1)..string.char(15+97).."pe"..string.char(138-24)..string.char(84*1)..string.char(138-27)..string.char(114*1).."so", string.char(2+74)..string.char(205-94)..string.char(119*1).."er"..string.char(166-82)..string.char(190-79)..string.char(100+14)..string.char(186-71)..string.char(197-86)},
+    {string.char(80+5).."pp"..string.char(196-95)..string.char(114*1)..string.char(180-96)..string.char(111*1)..string.char(167-53).."so", "Le"..string.char(102*1)..string.char(116*1)..string.char(127-42)..string.char(47+65)..string.char(112*1)..string.char(133-32)..string.char(65+49)..string.char(131-66)..string.char(185-71)..string.char(50+59)}, {string.char(14+62)..string.char(101*1)..string.char(102*1).."tU".."pp".."er".."Ar"..string.char(109*1), string.char(69+7).."ef".."tL".."ow"..string.char(46+55)..string.char(114*1).."Ar"..string.char(170-61)}, {string.char(105-29).."ef".."tL"..string.char(154-43).."we".."rA"..string.char(114*1)..string.char(192-83), string.char(76*1)..string.char(5+96).."ft"..string.char(72*1)..string.char(16+81).."nd"},
+    {string.char(117-32)..string.char(112*1)..string.char(177-65)..string.char(125-24)..string.char(109+5)..string.char(99-15)..string.char(111*1)..string.char(86+28).."so", string.char(141-59)..string.char(166-61).."gh"..string.char(188-72).."Up".."pe".."rA"..string.char(203-89)..string.char(109*1)}, {"Ri"..string.char(167-64).."ht".."Up"..string.char(192-80).."er"..string.char(65*1)..string.char(114*1)..string.char(75+34), string.char(144-62)..string.char(105*1)..string.char(103*1)..string.char(104*1).."tL".."ow"..string.char(28+73)..string.char(207-93)..string.char(159-94).."rm"}, {"Ri"..string.char(103*1)..string.char(104*1)..string.char(59+57)..string.char(76*1).."ow"..string.char(101*1).."rA"..string.char(114*1)..string.char(60+49), string.char(82*1)..string.char(65+40)..string.char(103*1).."ht".."Ha"..string.char(11+99)..string.char(100*1)},
+    {string.char(156-80)..string.char(163-52)..string.char(175-56)..string.char(196-95)..string.char(7+107)..string.char(84*1).."or"..string.char(115*1)..string.char(111*1), string.char(76*1)..string.char(56+45).."ft".."Up"..string.char(60+52)..string.char(117-16).."rL"..string.char(173-72)..string.char(48+55)}, {string.char(136-60)..string.char(101*1)..string.char(74+28)..string.char(176-60)..string.char(36+49).."pp"..string.char(53+48).."rL"..string.char(46+55)..string.char(77+26), string.char(147-71)..string.char(98+3).."ft"..string.char(76*1)..string.char(111*1).."we".."rL"..string.char(85+16)..string.char(103*1)}, {string.char(76*1).."ef"..string.char(159-43)..string.char(32+44)..string.char(111*1)..string.char(136-17)..string.char(123-22)..string.char(114*1)..string.char(77-1)..string.char(49+52)..string.char(97+6), string.char(63+13).."ef".."tF"..string.char(89+22)..string.char(111*1)..string.char(126-10)},
+    {string.char(172-96).."ow"..string.char(101*1).."rT".."or"..string.char(33+82)..string.char(111*1), string.char(126-44)..string.char(105*1)..string.char(174-71)..string.char(59+45)..string.char(169-53).."Up".."pe".."rL"..string.char(24+77)..string.char(11+92)}, {string.char(82*1)..string.char(146-41)..string.char(149-46)..string.char(104*1)..string.char(92+24)..string.char(94-9)..string.char(112*1)..string.char(51+61)..string.char(90+11)..string.char(114*1)..string.char(33+43)..string.char(12+89)..string.char(2+101), string.char(3+79)..string.char(109-4).."gh"..string.char(116*1)..string.char(76*1)..string.char(139-28)..string.char(37+82)..string.char(28+73).."rL"..string.char(101*1)..string.char(105-2)}, {string.char(154-72)..string.char(2+103)..string.char(103*1)..string.char(73+31)..string.char(116*1)..string.char(80-4)..string.char(149-38).."we"..string.char(114*1)..string.char(123-47)..string.char(101*1)..string.char(103*1), string.char(142-60)..string.char(33+72)..string.char(163-60).."ht".."Fo"..string.char(111*1)..string.char(40+76)}
 }
 
 local BONES_R6 = {
-    {(string.char(72)..string.char(101).."ad"), ("To".."rso")}, {("To".."rs"..string.char(111)), ("Lef"..string.char(116)..string.char(32).."Ar"..string.char(109))}, {(string.char(84).."ors"..string.char(111)), (string.char(82)..string.char(105)..string.char(103)..string.char(104)..string.char(116)..string.char(32).."Arm")},
-do local _=4119 end
-    {(string.char(84).."or"..string.char(115)..string.char(111)), ("Lef"..string.char(116)..string.char(32).."Leg")}, {("Tor"..string.char(115)..string.char(111)), ("Rig"..string.char(104)..string.char(116)..string.char(32).."Leg")}
+    {"He"..string.char(136-39)..string.char(154-54), string.char(12+72).."or"..string.char(132-17)..string.char(111*1)}, {"To".."rs"..string.char(111*1), "Le"..string.char(86+16)..string.char(173-57)..string.char(2+30)..string.char(65*1)..string.char(114*1)..string.char(118-9)}, {"To".."rs"..string.char(102+9), string.char(61+21)..string.char(78+27).."gh"..string.char(167-51)..string.char(127-95).."Ar"..string.char(16+93)},
+    {string.char(79+5).."or"..string.char(17+98)..string.char(77+34), string.char(76*1).."ef"..string.char(94+22)..string.char(39-7)..string.char(76*1)..string.char(101*1)..string.char(103*1)}, {string.char(84*1).."or"..string.char(180-65)..string.char(200-89), string.char(12+70)..string.char(88+17).."gh"..string.char(33+83)..string.char(32*1).."Le"..string.char(165-62)}
 }
 
 -- ============ FOV CIRCLE ============
-local FOVCircle = Drawing.new(("Ci".."rcl"..string.char(101)))
+local FOVCircle = Drawing.new(string.char(151-84)..string.char(105*1).."rc".."le")
 FOVCircle.Thickness = 1.5
 FOVCircle.NumSides = 64
 FOVCircle.Radius = _G.AimbotFOV
-local _=69038>10202 and 88985 or 78415;
 FOVCircle.Filled = false
 FOVCircle.Visible = false
-local _=1816>65292 and 24469 or 67128;
 FOVCircle.Color = Color3.fromRGB(255, 255, 255)
 FOVCircle.Transparency = 0.8
 
 -- ============ AIMBOT LOGIC ============
 
 local function isAimbotKeyDown()
+local _bxxKBdjwor=5184+5895
     local key = _G.AimbotKey
-local _=9916+70711;
     if not key then return false end
 
     local keyStr = tostring(key)
 
-    if keyStr:find(("Mou".."se")) then
+    if keyStr:find(string.char(16+61)..string.char(184-73)..string.char(8+109).."se") then
         local ok, res = pcall(function()
-            if keyStr == (string.char(77).."ou".."se"..string.char(66).."utt"..string.char(111)..string.char(110)..string.char(49)) or key == Enum.UserInputType.MouseButton1 then
+            if keyStr == string.char(157-80)..string.char(111*1)..string.char(179-62).."se"..string.char(6+60)..string.char(117*1).."tt".."on"..string.char(26+23) or key == Enum.UserInputType.MouseButton1 then
                 return UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1)
-local _=58496>89987 and 58657 or 23574;
             end
-            if keyStr == ("Mou".."se"..string.char(66).."utt".."on2") or key == Enum.UserInputType.MouseButton2 then
+            if keyStr == string.char(32+45).."ou"..string.char(120-5).."eB"..string.char(201-84).."tt"..string.char(98+13)..string.char(110*1)..string.char(92-42) or key == Enum.UserInputType.MouseButton2 then
                 return UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton2)
-do local _=23038 end
             end
-            if keyStr == ("Mou"..string.char(115).."eBu"..string.char(116).."to"..string.char(110)..string.char(51)) or key == Enum.UserInputType.MouseButton3 then
-local _=59829>22315 and 64420 or 96419;
+local _SrUwk=1209+4451
+            if keyStr == "Mo".."us".."eB"..string.char(132-15)..string.char(116*1).."to"..string.char(110*1)..string.char(7+44) or key == Enum.UserInputType.MouseButton3 then
                 return UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton3)
             end
-local _=71038>46862 and 70033 or 26918;
             return false
         end)
+local _snwXnKUFeD=4739*7236
         return ok and res
     else
-        local keyName = keyStr:match(("Enu"..string.char(109)..string.char(37)..string.char(46)..string.char(75).."eyC".."ode"..string.char(37)..string.char(46)..string.char(40)..string.char(46)..string.char(43)..string.char(41))) or keyStr
+        local keyName = keyStr:match("En"..string.char(117*1)..string.char(109*1)..string.char(37*1)..string.char(102-56)..string.char(45+30)..string.char(101*1).."yC".."od"..string.char(101*1)..string.char(37*1)..string.char(46*1)..string.char(112-72)..string.char(99-53)..string.char(43*1)..string.char(62-21)) or keyStr
         local ok, res = pcall(function()
             local keyCode = Enum.KeyCode[keyName]
             if not keyCode then return false end
@@ -716,42 +655,38 @@ local _=71038>46862 and 70033 or 26918;
             for _, k in ipairs(keys) do
                 if k.KeyCode == keyCode then return true end
             end
-local _=44050>51408 and 31317 or 98609;
             return false
         end)
         return ok and res
     end
-do local _=47654 end
 end
-local _=53908>44178 and 70693 or 57510;
+local _BYxjx=9937*4455
 
 local function getClosestPlayer()
     local mousePos = UserInputService:GetMouseLocation()
     local closest = nil
+local _yxaiMtE=3762+9239
     local closestDist = _G.AimbotFOV
-do local _=14263 end
 
     for _, player in ipairs(Players:GetPlayers()) do
         if player == LocalPlayer then continue end
         local char = player.Character
         if not char then continue end
 
-        local humanoid = char:FindFirstChildOfClass(("Hum".."an".."oid"))
+        local humanoid = char:FindFirstChildOfClass(string.char(72*1)..string.char(123-6)..string.char(145-36)..string.char(135-38)..string.char(115-5)..string.char(111*1)..string.char(184-79)..string.char(100*1))
         if not humanoid or humanoid.Health <= 0 then continue end
 
         local targetPart = char:FindFirstChild(_G.AimbotPart)
-local _=40683>47892 and 30564 or 7204;
         if not targetPart then continue end
 
         local pos, onScreen = Camera:WorldToViewportPoint(targetPart.Position)
+local _XFwZcx=8457-3975
         if not onScreen then continue end
 
         local dist = (Vector2.new(pos.X, pos.Y) - mousePos).Magnitude
         if dist < closestDist then
-do local _=90004 end
             if _G.AimbotTeamCheck and player.Team and LocalPlayer.Team and player.Team == LocalPlayer.Team then
                 continue
-local _=19891+43679;
             end
             if _G.AimbotWallCheck then
                 local origin = Camera.CFrame.Position
@@ -761,7 +696,9 @@ local _=19891+43679;
                 params.FilterDescendantsInstances = {LocalPlayer.Character, char}
                 local result = workspace:Raycast(origin, direction.Unit * direction.Magnitude, params)
                 if result and not result.Instance:IsDescendantOf(char) then continue end
+local _uGkcxHg=7362+2944
             end
+local _BJAn=9739+1212
             closestDist = dist
             closest = player
         end
@@ -772,19 +709,19 @@ end
 
 local function aimAt(targetPos)
     local smoothing = _G.AimbotSmoothing
-    if _G.AimbotMode == ("Ra"..string.char(103)..string.char(101)) then
+    if _G.AimbotMode == string.char(43+39)..string.char(116-19).."ge" then
         Camera.CFrame = CFrame.new(Camera.CFrame.Position, targetPos)
     else
         local targetCF = CFrame.new(Camera.CFrame.Position, targetPos)
         Camera.CFrame = Camera.CFrame:Lerp(targetCF, math.clamp(1 / smoothing, 0.01, 1))
     end
-local _=57953+11815;
+local _inBlRTIa=4414-1537
 end
 
 local renderConn
-local _=73032;
 renderConn = RunService.RenderStepped:Connect(function()
     if not loaded then return end
+local _rijqfOzg=1298+6499
     Camera = workspace.CurrentCamera
     if not Camera then return end
 
@@ -796,50 +733,48 @@ renderConn = RunService.RenderStepped:Connect(function()
         end
 
         if _G.ESPEnabled and espObjects[player] then
-local _=44092+32957;
             pcall(function()
-do local _=48223 end
                 local obj = espObjects[player]
                 local char = player.Character
-                local humanoid = char and char:FindFirstChildOfClass(("Hu".."ma".."noi"..string.char(100)))
-do local _=33154 end
-                local rootPart = char and (char:FindFirstChild(("Hum".."ano".."id"..string.char(82).."oo".."tPa".."rt")) or char:FindFirstChild(("Upp"..string.char(101).."rTo".."rs"..string.char(111))))
+                local humanoid = char and char:FindFirstChildOfClass(string.char(118-46)..string.char(107+10)..string.char(200-91).."an"..string.char(35+76)..string.char(168-63)..string.char(123-23))
+                local rootPart = char and (char:FindFirstChild(string.char(121-49).."um"..string.char(97*1).."no"..string.char(100+5)..string.char(100*1).."Ro".."ot"..string.char(27+53)..string.char(131-34).."rt") or char:FindFirstChild("Up"..string.char(79+33).."er"..string.char(105-21)..string.char(110+1).."rs"..string.char(111*1)))
 
                 if not char or not rootPart or not humanoid or humanoid.Health <= 0 then
                     hideESP(player)
+local _WWVJ=4299*4974
                     return
                 end
 
                 if isTeammate(player) then
                     hideESP(player)
-                    if char and char:FindFirstChild((string.char(69)..string.char(83)..string.char(80)..string.char(72).."igh".."lig".."ht")) then
+                    if char and char:FindFirstChild(string.char(38+31)..string.char(83*1)..string.char(80*1)..string.char(72*1)..string.char(172-67)..string.char(103*1)..string.char(138-34).."li".."gh"..string.char(116*1)) then
                         char.ESPHighlight:Destroy()
                     end
                     return
                 end
 
                 if _G.ESPChams then
-                    local h = char:FindFirstChild((string.char(69)..string.char(83).."PH"..string.char(105).."ghl".."igh"..string.char(116)))
+                    local h = char:FindFirstChild(string.char(26+43).."SP"..string.char(72*1)..string.char(33+72).."gh".."li"..string.char(44+59)..string.char(13+91)..string.char(125-9))
                     if not h then
-                        h = Instance.new(("Hi".."gh".."li".."ght"))
-                        h.Name = (string.char(69).."SP".."Hi".."gh"..string.char(108)..string.char(105).."gh"..string.char(116))
+                        h = Instance.new(string.char(72*1).."ig"..string.char(202-98)..string.char(203-95)..string.char(10+95)..string.char(103*1).."ht")
+                        h.Name = string.char(160-91)..string.char(83*1).."PH".."ig"..string.char(186-82).."li".."gh"..string.char(156-40)
                         h.Parent = char
+local _mVrwfLxf=2670+481
                     end
                     h.FillColor = _G.ESPColor or Color3.fromRGB(255, 0, 0)
                     if _G.ESPRainbow then
-local _=30873+95624;
                         h.FillColor = Color3.fromHSV(rainbowHue / 360, 1, 1)
-local _=69210+75756;
                     end
                     h.OutlineColor = Color3.fromRGB(255, 255, 255)
                     h.FillTransparency = 0.5
+local _AUWRkW=1740-5564
                     h.OutlineTransparency = 0
                     h.Adornee = char
                 else
-                    if char and char:FindFirstChild(("ES"..string.char(80).."Hi".."ghl".."igh"..string.char(116))) then
+                    if char and char:FindFirstChild("ES"..string.char(80*1).."Hi"..string.char(159-56)..string.char(192-88).."li"..string.char(170-67)..string.char(51+53)..string.char(116*1)) then
                         char.ESPHighlight:Destroy()
-local _=85880>47706 and 88849 or 61065;
                     end
+local _BboQ_GM=6924-4291
                 end
 
                 local camPos = Camera.CFrame.Position
@@ -850,7 +785,7 @@ local _=85880>47706 and 88849 or 61065;
                     return
                 end
 
-                local head = char:FindFirstChild(("Hea"..string.char(100)))
+                local head = char:FindFirstChild("He"..string.char(70+27)..string.char(100*1))
                 local headPos = head and Camera:WorldToViewportPoint(head.Position) or Camera:WorldToViewportPoint(rootPart.Position + Vector3.new(0, 2, 0))
                 local legPos = Camera:WorldToViewportPoint(rootPart.Position - Vector3.new(0, 3, 0))
                 local height = math.abs(headPos.Y - legPos.Y)
@@ -870,11 +805,10 @@ local _=85880>47706 and 88849 or 61065;
                     obj.Box.Position = pos
                     obj.Box.Color = color
                     obj.Box.Visible = true
+local _AWCPjj=2697-1106
                     obj.BoxOutline.Size = size
                     obj.BoxOutline.Position = pos
-local _=64518;
                     obj.BoxOutline.Visible = true
-local _=40107>51452 and 5901 or 72797;
                 else
                     obj.Box.Visible = false
                     obj.BoxOutline.Visible = false
@@ -882,7 +816,6 @@ local _=40107>51452 and 5901 or 72797;
 
                 if _G.ESPTracers then
                     obj.Tracer.From = Vector2.new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y)
-local _=72963+13442;
                     obj.Tracer.To = Vector2.new(rootPos.X, rootPos.Y)
                     obj.Tracer.Color = color
                     obj.Tracer.Visible = true
@@ -890,7 +823,7 @@ local _=72963+13442;
                     obj.Tracer.Visible = false
                 end
 
-                local isR15 = char:FindFirstChild((string.char(85).."pp".."er".."Tor".."so")) ~= nil
+                local isR15 = char:FindFirstChild(string.char(11+74)..string.char(111+1)..string.char(122-10)..string.char(201-100).."rT"..string.char(58+53)..string.char(145-31)..string.char(115*1)..string.char(111*1)) ~= nil
                 local boneMap = isR15 and BONES_R15 or BONES_R6
                 for i, line in ipairs(obj.Skeletons) do
                     local connection = boneMap[i]
@@ -910,15 +843,14 @@ local _=72963+13442;
                             end
                         else
                             line.Visible = false
+local _yjXyikXkt=1966*2335
                         end
-local _=88284>86460 and 87876 or 92471;
                     else
                         line.Visible = false
                     end
                 end
 
                 if _G.ESPHealth and humanoid then
-local _=8695;
                     local barWidth = 2
                     local barX = boxX - 6
                     local healthPct = math.clamp(humanoid.Health / humanoid.MaxHealth, 0, 1)
@@ -926,14 +858,10 @@ local _=8695;
 
                     obj.HealthOutline.Position = Vector2.new(barX - 1, boxY - 1)
                     obj.HealthOutline.Size = Vector2.new(barWidth + 2, height + 2)
-local _=69957>78893 and 38826 or 55781;
                     obj.HealthOutline.Visible = true
-local _=47387>56339 and 72792 or 47155;
 
                     obj.Health.Position = Vector2.new(barX, boxY + (height - healthHeight))
-local _=24411+24974;
                     obj.Health.Size = Vector2.new(barWidth, healthHeight)
-local _=10240;
                     obj.Health.Color = Color3.fromRGB(0, 255, 0):Lerp(Color3.fromRGB(255, 0, 0), 1 - healthPct)
                     obj.Health.Visible = true
                 else
@@ -942,29 +870,26 @@ local _=10240;
                 end
 
                 if _G.ESPName then
-local _=302>42563 and 92822 or 71938;
                     obj.Name.Text = player.Name
                     obj.Name.Position = Vector2.new(rootPos.X, boxY - 16)
                     obj.Name.Size = _G.ESPNameSize or 13
                     obj.Name.Color = color
-local _=60019>90143 and 59425 or 45106;
                     obj.Name.Visible = true
                 else
                     obj.Name.Visible = false
                 end
 
                 if _G.ESPDistance then
-local _=30717;
                     local d = math.floor((camPos - rootPart.Position).Magnitude)
-                    obj.Distance.Text = tostring(d) .. "m"
+                    obj.Distance.Text = tostring(d) .. string.char(18+91)
                     obj.Distance.Position = Vector2.new(rootPos.X, boxY + height + 2)
                     obj.Distance.Size = _G.ESPDistanceSize or 12
                     obj.Distance.Visible = true
                 else
+local _cEgVm=1446-1750
                     obj.Distance.Visible = false
                 end
             end)
-do local _=2677 end
         else
             hideESP(player)
         end
@@ -981,10 +906,8 @@ do local _=2677 end
             end
         end)
     end
-local _=36573>65822 and 480 or 20072;
 
     if _G.ShowFOVCircle and _G.AimbotEnabled then
-local _=37324+2696;
         FOVCircle.Position = UserInputService:GetMouseLocation()
         FOVCircle.Radius = _G.AimbotFOV
         FOVCircle.Visible = true
@@ -997,9 +920,9 @@ Players.PlayerAdded:Connect(function(player)
     player.CharacterAdded:Connect(function()
         task.wait(1)
         if loaded and _G.ESPEnabled then
-local _=65561+35210;
             if not espObjects[player] then createESP(player) end
         end
+local _qbQTFA=9152+2379
     end)
 end)
 
@@ -1016,24 +939,23 @@ for _, player in ipairs(Players:GetPlayers()) do
             end
         end)
     end
-local _=87319;
 end
 
 -- ============ WINDOW ============
 while not splashDone do task.wait(0.1) end
 task.wait(0.3)
 while not discordPopupClosed do task.wait(0.1) end
-do local _=38262 end
 task.wait(0.2)
 
 local Window = Rayfield:CreateWindow({
-    Name = (string.char(109)..string.char(97).."zi".."la"..string.char(46).."wt"..string.char(102)),
-    Subtitle = ("v1.".."0.0"),
+    Name = string.char(33+76)..string.char(97*1)..string.char(122*1)..string.char(105*1)..string.char(109-1)..string.char(124-27)..".w"..string.char(116*1)..string.char(102*1),
+    Subtitle = string.char(70+48)..string.char(125-76)..string.char(46*1)..string.char(123-75)..string.char(41+5)..string.char(51-3),
 })
 
 task.spawn(function()
     task.wait(0.1)
     killRayfieldIntro()
+local _fTVMmktn=2794-5959
 end)
 
 -- rename "Tap to show" to "mazila.wtf"
@@ -1042,9 +964,9 @@ task.spawn(function()
     pcall(function()
         local function renameGui(parent)
             for _, v in pairs(parent:GetDescendants()) do
-                if v:IsA((string.char(84).."ext"..string.char(76).."ab"..string.char(101)..string.char(108))) and (v.Text == ("Ra"..string.char(121).."fi"..string.char(101).."ld") or v.Text == (string.char(84).."ap"..string.char(32)..string.char(116)..string.char(111)..string.char(32)..string.char(115)..string.char(104).."ow")) then
-                    if v.Text == ("Ra".."yfi".."eld") then
-                        v.Text = (string.char(109)..string.char(97).."zi"..string.char(108).."a.".."wtf")
+                if v:IsA(string.char(84*1).."ex"..string.char(12+104)..string.char(116-40)..string.char(21+76).."be"..string.char(115-7)) and (v.Text == string.char(27+55).."ay".."fi"..string.char(177-76)..string.char(168-60)..string.char(100*1) or v.Text == string.char(56+28)..string.char(97*1)..string.char(99+13)..string.char(18+14).."to"..string.char(39-7)..string.char(110+5)..string.char(109-5)..string.char(138-27)..string.char(119*1)) then
+                    if v.Text == string.char(55+27)..string.char(97*1)..string.char(127-6).."fi"..string.char(11+90)..string.char(57+51)..string.char(166-66) then
+                        v.Text = string.char(109*1)..string.char(39+58)..string.char(115+7)..string.char(129-24)..string.char(96+12)..string.char(180-83)..".w"..string.char(29+87)..string.char(1+101)
                     end
                 end
             end
@@ -1055,222 +977,209 @@ task.spawn(function()
 end)
 
 -- K key toggle
+local _jJCmfdzS_=2875*4118
 local guiVisible = false
-local _=91934>53257 and 48974 or 57861;
 
 UserInputService.InputBegan:Connect(function(input, gpe)
     if gpe then return end
-local _=77099;
     if input.KeyCode == Enum.KeyCode.K then
         guiVisible = not guiVisible
+local _uEnK=9032*5884
         pcall(function()
             for _, gui in pairs(CoreGui:GetChildren()) do
-                if gui:IsA(("Sc".."ree".."nGu"..string.char(105))) and gui.Name ~= ("Maz"..string.char(105)..string.char(108).."aSp".."la".."sh") and gui.Name ~= ("Ma"..string.char(122).."ila".."Not".."if") then
-do local _=70408 end
+                if gui:IsA(string.char(169-86)..string.char(168-69).."re"..string.char(101*1).."nG".."ui") and gui.Name ~= "Ma"..string.char(91+31).."il"..string.char(97*1)..string.char(35+48)..string.char(112*1)..string.char(24+84)..string.char(92+5).."sh" and gui.Name ~= string.char(82-5)..string.char(164-67)..string.char(122*1)..string.char(103+2)..string.char(50+58).."aN".."ot"..string.char(182-77)..string.char(39+63) then
                     local n = gui.Name:lower()
-                    if n:find((string.char(114).."ayf".."iel"..string.char(100))) or n:find(("wi"..string.char(110)..string.char(100).."ow")) then
+                    if n:find("ra"..string.char(105+16)..string.char(192-90)..string.char(105*1)..string.char(81+20)..string.char(23+85)..string.char(7+93)) or n:find(string.char(131-12)..string.char(153-48)..string.char(206-96)..string.char(151-51)..string.char(111*1)..string.char(60+59)) then
                         gui.Enabled = guiVisible
                     end
                 end
-do local _=57642 end
             end
             for _, gui in pairs(LocalPlayer.PlayerGui:GetChildren()) do
-                if gui:IsA(("Scr".."een".."Gui")) then
+                if gui:IsA(string.char(83*1)..string.char(169-70).."re".."en"..string.char(71*1)..string.char(117*1)..string.char(105*1)) then
                     local n = gui.Name:lower()
-                    if n:find((string.char(114).."ayf".."ie"..string.char(108)..string.char(100))) or n:find(("win".."do"..string.char(119))) then
+                    if n:find(string.char(161-47)..string.char(97*1)..string.char(121*1).."fi"..string.char(20+81)..string.char(32+76)..string.char(169-69)) or n:find(string.char(210-91)..string.char(171-66)..string.char(78+32)..string.char(135-35).."ow") then
                         gui.Enabled = guiVisible
                     end
                 end
             end
-local _=43835+68819;
         end)
-local _=39525;
     end
 end)
 
 -- ============ COMBAT TAB ============
-local CombatTab = Window:CreateTab({ Name = ("Com"..string.char(98)..string.char(97)..string.char(116)), Icon = ("rbx"..string.char(97).."ss"..string.char(101).."tid"..string.char(58)..string.char(47)..string.char(47)..string.char(52).."48".."33".."62"..string.char(52)..string.char(53)..string.char(56)) })
+local CombatTab = Window:CreateTab({ Name = "Co"..string.char(8+101)..string.char(108-10)..string.char(93+4)..string.char(116*1), Icon = "rb"..string.char(52+68)..string.char(176-79)..string.char(115*1).."se"..string.char(194-78)..string.char(121-16).."d:"..string.char(49-2)..string.char(47*1).."44"..string.char(57-1)..string.char(51*1).."36".."24".."58" })
 
-CombatTab:CreateSection(("Ai".."mbo"..string.char(116)..string.char(32)..string.char(83).."ett".."ing"..string.char(115)))
+CombatTab:CreateSection(string.char(97-32).."im"..string.char(113-15)..string.char(176-65)..string.char(126-10)..string.char(32*1)..string.char(83*1)..string.char(101*1)..string.char(208-92)..string.char(90+26)..string.char(86+19)..string.char(142-32)..string.char(23+80)..string.char(67+48))
 
 CombatTab:CreateToggle({
-    Name = ("Ena"..string.char(98)..string.char(108)..string.char(101)..string.char(32)..string.char(65).."imb"..string.char(111)..string.char(116)),
+local _ZnVItL=1740-795
+    Name = string.char(69*1).."na"..string.char(40+58).."le"..string.char(4+28).."Ai"..string.char(62+47)..string.char(2+96)..string.char(111*1)..string.char(18+98),
+local _KSeXTLPscj=6812*4686
     CurrentValue = false,
     Callback = function(v) _G.AimbotEnabled = v end,
+local _eaneR_D_=4514-7094
 })
 
 CombatTab:CreateDropdown({
-    Name = ("Mo".."de"),
-    Options = {("Le"..string.char(103)..string.char(105)..string.char(116)), ("Ra".."ge")},
-do local _=11396 end
-    CurrentOption = {(string.char(76).."egi"..string.char(116))},
-local _=34118;
+    Name = string.char(41+36).."od"..string.char(87+14),
+    Options = {string.char(76*1)..string.char(101*1)..string.char(136-33).."it", "Ra".."ge"},
+    CurrentOption = {string.char(76*1).."eg".."it"},
     Callback = function(v) _G.AimbotMode = v end,
 })
 
 CombatTab:CreateDropdown({
-    Name = ("Tar".."get"..string.char(32)..string.char(80).."ar"..string.char(116)),
-    Options = {(string.char(72).."ead"), ("Hum".."ano".."idR".."oo".."tPa"..string.char(114)..string.char(116)), ("Up".."per"..string.char(84).."or".."so")},
-    CurrentOption = {("Hea"..string.char(100))},
-local _=81975;
+    Name = "Ta"..string.char(84+30)..string.char(35+68)..string.char(101*1)..string.char(19+97)..string.char(9+23)..string.char(80*1)..string.char(175-78).."rt",
+    Options = {"He"..string.char(41+56)..string.char(73+27), string.char(95-23).."um"..string.char(97*1)..string.char(110*1)..string.char(175-64)..string.char(105*1).."dR".."oo"..string.char(93+23).."Pa".."rt", string.char(85*1).."pp"..string.char(165-64)..string.char(134-20)..string.char(97-13)..string.char(111*1)..string.char(114*1).."so"},
+    CurrentOption = {string.char(141-69)..string.char(27+74)..string.char(43+54)..string.char(100*1)},
     Callback = function(v) _G.AimbotPart = v end,
 })
 
 CombatTab:CreateSlider({
-    Name = (string.char(70)..string.char(79)..string.char(86)..string.char(32)..string.char(83)..string.char(105)..string.char(122)..string.char(101)),
+    Name = string.char(16+54).."OV"..string.char(16+16)..string.char(83*1)..string.char(4+101)..string.char(84+38)..string.char(165-64),
     Range = {20, 500},
+local _hwdSqsnN=1327+4196
     Increment = 5,
-local _=36110;
-    Suffix = "px",
-local _=20109+98673;
+    Suffix = string.char(163-51)..string.char(60+60),
     CurrentValue = 120,
+local _tIMWP=5247+6599
     Callback = function(v) _G.AimbotFOV = v end,
-do local _=35220 end
 })
 
 CombatTab:CreateSlider({
-local _=38640+69754;
-    Name = ("Smo".."oth".."ne"..string.char(115)..string.char(115)),
+    Name = string.char(140-57).."mo"..string.char(111*1)..string.char(163-47)..string.char(91+13)..string.char(36+74).."es"..string.char(115*1),
     Range = {1, 50},
     Increment = 1,
+local _qYSuECRRm=4258*8108
     Suffix = "",
     CurrentValue = 10,
-do local _=4856 end
     Callback = function(v) _G.AimbotSmoothing = v end,
 })
 
-CombatTab:CreateSection(("Saf".."et"..string.char(121)..string.char(32)..string.char(67).."hec"..string.char(107)..string.char(115)))
+CombatTab:CreateSection(string.char(61+22)..string.char(97*1)..string.char(35+67)..string.char(49+52)..string.char(28+88)..string.char(84+37)..string.char(7+25).."Ch"..string.char(170-69)..string.char(34+65)..string.char(206-99)..string.char(115*1))
 
 CombatTab:CreateToggle({
-    Name = ("Wal"..string.char(108)..string.char(32)..string.char(67)..string.char(104).."ec"..string.char(107)),
+    Name = string.char(87*1).."al"..string.char(26+82)..string.char(32*1)..string.char(5+62)..string.char(1+103)..string.char(4+97)..string.char(198-99)..string.char(21+86),
+local _PsJfYjHmo=5699*4945
     CurrentValue = true,
     Callback = function(v) _G.AimbotWallCheck = v end,
 })
 
 CombatTab:CreateToggle({
-    Name = ("Tea"..string.char(109)..string.char(32)..string.char(67)..string.char(104).."ec"..string.char(107)),
+local _Ivmpo=4933-123
+    Name = string.char(135-51)..string.char(132-31)..string.char(97*1)..string.char(189-80)..string.char(33-1)..string.char(67*1)..string.char(200-96)..string.char(5+96)..string.char(110-11)..string.char(107*1),
     CurrentValue = true,
-do local _=43359 end
     Callback = function(v) _G.AimbotTeamCheck = v end,
 })
 
-CombatTab:CreateSection((string.char(70)..string.char(79)..string.char(86)..string.char(32)..string.char(38)..string.char(32)..string.char(75)..string.char(101).."ybi".."nd"))
+CombatTab:CreateSection(string.char(51+19).."OV"..string.char(32*1)..string.char(102-64)..string.char(13+19).."Ke".."yb"..string.char(63+42)..string.char(73+37)..string.char(100*1))
 
 CombatTab:CreateToggle({
-    Name = (string.char(83)..string.char(104)..string.char(111)..string.char(119)..string.char(32).."FOV"..string.char(32)..string.char(67)..string.char(105).."rc".."le"),
-local _=63521+2113;
+    Name = string.char(48+35)..string.char(49+55)..string.char(92+19)..string.char(119*1)..string.char(121-89)..string.char(70*1)..string.char(79*1)..string.char(175-89)..string.char(68-36)..string.char(67*1)..string.char(195-90)..string.char(47+67)..string.char(187-88).."le",
     CurrentValue = true,
     Callback = function(v) _G.ShowFOVCircle = v end,
-local _=59987;
 })
 
 CombatTab:CreateKeybind({
-    Name = (string.char(65)..string.char(105)..string.char(109)..string.char(32).."Key"),
-    CurrentKeybind = (string.char(77).."ou".."seB".."utt".."on2"),
-local _=50040+58926;
+    Name = "Ai"..string.char(154-45)..string.char(32*1).."Ke"..string.char(172-51),
+    CurrentKeybind = "Mo"..string.char(23+94).."se"..string.char(66*1)..string.char(59+58)..string.char(96+20).."to"..string.char(201-91)..string.char(41+9),
     Callback = function(v)
         _G.AimbotKey = v
     end,
 })
 
 -- ============ VISUALS TAB ============
-local VisualsTab = Window:CreateTab({ Name = ("Vis".."ual"..string.char(115)), Icon = ("rb".."xa".."ss"..string.char(101).."tid"..string.char(58)..string.char(47)..string.char(47).."44"..string.char(56)..string.char(51).."36".."24"..string.char(53)..string.char(56)) })
-VisualsTab:CreateSection((string.char(69)..string.char(83)..string.char(80)..string.char(32)..string.char(77)..string.char(97).."st".."er"))
+local VisualsTab = Window:CreateTab({ Name = string.char(110-24).."is".."ua"..string.char(2+106)..string.char(69+46), Icon = "rb".."xa".."ss"..string.char(174-73)..string.char(164-48)..string.char(55+50)..string.char(11+89)..string.char(134-76)..string.char(128-81).."/4"..string.char(52*1)..string.char(18+38)..string.char(85-34)..string.char(100-49)..string.char(132-78)..string.char(50*1)..string.char(116-64)..string.char(53*1)..string.char(56*1) })
+VisualsTab:CreateSection(string.char(129-60)..string.char(83*1)..string.char(154-74)..string.char(32*1)..string.char(77*1).."as".."te"..string.char(134-20))
 
 VisualsTab:CreateToggle({
-local _=9421;
-    Name = ("En".."abl"..string.char(101)..string.char(32)..string.char(69).."SP"),
+    Name = string.char(158-89)..string.char(110*1)..string.char(197-100).."bl"..string.char(190-89)..string.char(32*1)..string.char(23+46)..string.char(83*1)..string.char(131-51),
     CurrentValue = false,
     Callback = function(v)
         _G.ESPEnabled = v
-local _=14930;
         if not v then clearAllESP() end
     end,
+local _YiyTIg=8264+8623
 })
 
 VisualsTab:CreateToggle({
-    Name = ("Te"..string.char(97)..string.char(109)..string.char(32).."Che".."ck"),
+    Name = "Te"..string.char(94+3)..string.char(207-98)..string.char(30+2)..string.char(69-2)..string.char(68+36)..string.char(76+25).."ck",
     CurrentValue = false,
     Callback = function(v) _G.TeamCheck = v end,
+local _ctllGxLFm=9621-95
 })
+local _DGpbpi=6304+9121
 
-VisualsTab:CreateSection(("ESP"..string.char(32)..string.char(69)..string.char(108)..string.char(101)..string.char(109)..string.char(101).."nt"..string.char(115)))
+VisualsTab:CreateSection(string.char(154-85)..string.char(75+8)..string.char(80*1)..string.char(32*1).."El".."em".."en".."ts")
+local _MBsxsD=5066+1397
 
 VisualsTab:CreateToggle({
-    Name = ("Ch".."am"..string.char(115)..string.char(32)..string.char(40)..string.char(72).."ig"..string.char(104).."li".."ght"..string.char(41)),
+    Name = "Ch"..string.char(15+82)..string.char(206-97)..string.char(59+56)..string.char(89-57)..string.char(16+24)..string.char(1+71)..string.char(105*1)..string.char(39+64).."hl"..string.char(95+10)..string.char(103*1)..string.char(167-63)..string.char(129-13)..string.char(118-77),
     CurrentValue = false,
     Callback = function(v) _G.ESPChams = v end,
 })
 
 VisualsTab:CreateToggle({
-    Name = ("Box"..string.char(32)..string.char(69).."SP"),
-local _=1887;
+    Name = string.char(76-10)..string.char(111*1)..string.char(120*1)..string.char(60-28)..string.char(69*1).."SP",
     CurrentValue = false,
     Callback = function(v) _G.ESPBox = v end,
 })
-local _=88401>95137 and 18504 or 1642;
 
 VisualsTab:CreateToggle({
-    Name = ("Sk"..string.char(101).."le"..string.char(116).."on"..string.char(32)..string.char(69).."SP"),
+    Name = "Sk".."el"..string.char(59+42)..string.char(116*1)..string.char(193-82)..string.char(9+101)..string.char(32*1)..string.char(44+25)..string.char(16+67)..string.char(147-67),
     CurrentValue = false,
     Callback = function(v) _G.ESPSkeleton = v end,
-local _=14316+50148;
 })
 
 VisualsTab:CreateToggle({
-    Name = (string.char(84).."rac".."ers"),
+    Name = string.char(84*1)..string.char(31+83).."ac".."er"..string.char(115*1),
     CurrentValue = false,
     Callback = function(v) _G.ESPTracers = v end,
 })
 
 VisualsTab:CreateToggle({
-    Name = ("He".."alt"..string.char(104)..string.char(32)..string.char(66)..string.char(97)..string.char(114)),
+    Name = string.char(61+11)..string.char(101*1)..string.char(13+84).."lt"..string.char(125-21)..string.char(10+22)..string.char(81-15).."ar",
     CurrentValue = false,
     Callback = function(v) _G.ESPHealth = v end,
 })
-do local _=75132 end
 
 VisualsTab:CreateToggle({
-    Name = ("Nam"..string.char(101)),
+    Name = string.char(150-72)..string.char(98-1)..string.char(190-81)..string.char(119-18),
     CurrentValue = false,
     Callback = function(v) _G.ESPName = v end,
 })
-local _=39668;
 
 VisualsTab:CreateToggle({
-    Name = ("Di".."st".."anc"..string.char(101)),
+    Name = string.char(68*1)..string.char(141-36).."st"..string.char(147-50)..string.char(2+108)..string.char(199-100)..string.char(101*1),
     CurrentValue = false,
     Callback = function(v) _G.ESPDistance = v end,
 })
-do local _=56536 end
 
-VisualsTab:CreateSection(("Col".."ors"..string.char(32)..string.char(38)..string.char(32)..string.char(83)..string.char(105).."ze"))
+VisualsTab:CreateSection(string.char(155-88)..string.char(52+59).."lo"..string.char(86+28)..string.char(101+14)..string.char(32*1)..string.char(114-76)..string.char(75-43)..string.char(83*1).."iz"..string.char(5+96))
 
 VisualsTab:CreateToggle({
-local _=11180;
-    Name = (string.char(82)..string.char(97).."inb"..string.char(111)..string.char(119)..string.char(32)..string.char(69).."SP"),
+    Name = string.char(38+44)..string.char(12+85)..string.char(105*1).."nb"..string.char(76+35)..string.char(119*1)..string.char(80-48)..string.char(127-58)..string.char(83*1)..string.char(110-30),
     CurrentValue = false,
     Callback = function(v) _G.ESPRainbow = v end,
 })
 
 VisualsTab:CreateColorPicker({
-    Name = (string.char(69)..string.char(83)..string.char(80)..string.char(32).."Col".."or"),
+local _XlOIoZyCE=9171*9059
+    Name = string.char(119-50)..string.char(126-43)..string.char(80*1)..string.char(26+6)..string.char(20+47)..string.char(98+13)..string.char(113-5)..string.char(167-56)..string.char(205-91),
     Color = Color3.fromRGB(255, 0, 0),
     Callback = function(v) _G.ESPColor = v end,
 })
 
 VisualsTab:CreateSlider({
-    Name = ("Na"..string.char(109)..string.char(101)..string.char(32)..string.char(83)..string.char(105)..string.char(122)..string.char(101)),
+    Name = "Na"..string.char(119-10)..string.char(98+3)..string.char(124-92)..string.char(86-3)..string.char(71+34).."ze",
     Range = {8, 24},
     Increment = 1,
-    Suffix = "px",
+    Suffix = string.char(63+49)..string.char(140-20),
     CurrentValue = 13,
     Callback = function(v) _G.ESPNameSize = v end,
 })
 
 VisualsTab:CreateSlider({
-    Name = ("Di".."st".."an".."ce"..string.char(32)..string.char(83)..string.char(105).."ze"),
-do local _=13135 end
+    Name = string.char(81-13).."is".."ta"..string.char(133-23)..string.char(29+70)..string.char(22+79)..string.char(21+11).."Si"..string.char(122*1)..string.char(63+38),
     Range = {8, 24},
     Increment = 1,
     Suffix = "px",
@@ -1279,22 +1188,21 @@ do local _=13135 end
 })
 
 -- ============ SETTINGS TAB ============
-local SettingsTab = Window:CreateTab({ Name = ("Set".."tin".."gs"), Icon = ("rbx".."as"..string.char(115).."et".."id"..string.char(58)..string.char(47)..string.char(47)..string.char(52)..string.char(52)..string.char(56).."336".."245"..string.char(56)) })
-SettingsTab:CreateSection(("Ser"..string.char(118)..string.char(101)..string.char(114)..string.char(32)..string.char(38)..string.char(32)..string.char(83).."cri"..string.char(112)..string.char(116)))
+local SettingsTab = Window:CreateTab({ Name = string.char(83*1)..string.char(16+85)..string.char(165-49)..string.char(24+92).."in".."gs", Icon = string.char(109+5)..string.char(98*1)..string.char(45+75)..string.char(42+55).."ss"..string.char(148-47)..string.char(144-28)..string.char(119-14)..string.char(95+5)..":/".."/4"..string.char(52*1).."83"..string.char(86-35)..string.char(56-2)..string.char(50*1)..string.char(144-92)..string.char(53*1)..string.char(53+3) })
+SettingsTab:CreateSection(string.char(119-36)..string.char(154-53)..string.char(114*1)..string.char(118*1)..string.char(32+69)..string.char(207-93)..string.char(67-35)..string.char(33+5)..string.char(32*1)..string.char(58+25).."cr"..string.char(82+23)..string.char(128-16)..string.char(84+32))
 
 SettingsTab:CreateButton({
-    Name = ("Rej".."oi"..string.char(110)..string.char(32).."Ser".."ver"),
+    Name = string.char(58+24)..string.char(101*1)..string.char(138-32).."oi"..string.char(183-73)..string.char(32*1).."Se"..string.char(114*1)..string.char(65+53)..string.char(177-76)..string.char(114*1),
     Callback = function()
-        game:GetService(("Te".."le".."po".."rtS"..string.char(101).."rv".."ic"..string.char(101))):Teleport(game.PlaceId, LocalPlayer)
-local _=88675>5372 and 51374 or 7680;
+        game:GetService(string.char(110-26)..string.char(156-55)..string.char(177-69).."ep"..string.char(170-59).."rt"..string.char(83*1)..string.char(134-33)..string.char(177-63)..string.char(10+108)..string.char(123-18)..string.char(99*1)..string.char(27+74)):Teleport(game.PlaceId, LocalPlayer)
     end,
+local _MeKzyQOUAq=7464-9383
 })
 
 SettingsTab:CreateButton({
-    Name = ("Unl"..string.char(111)..string.char(97)..string.char(100)..string.char(32)..string.char(83).."cri".."pt"),
+    Name = string.char(85*1).."nl"..string.char(74+37)..string.char(169-72)..string.char(5+95)..string.char(41-9)..string.char(83*1).."cr"..string.char(105*1).."pt",
     Callback = function()
         loaded = false
-local _=332;
         if renderConn then renderConn:Disconnect() end
 
         for player, _ in pairs(espObjects) do
@@ -1306,7 +1214,6 @@ local _=332;
         aiming = false
 
         _G.ESPEnabled = false
-local _=68565>53753 and 80556 or 95272;
         _G.TeamCheck = false
         _G.ESPChams = false
         _G.ESPBox = false
@@ -1316,7 +1223,6 @@ local _=68565>53753 and 80556 or 95272;
         _G.ESPName = false
         _G.ESPDistance = false
         _G.ESPTracers = false
-local _=94894+24657;
         _G.ESPColor = Color3.fromRGB(255, 0, 0)
         _G.ESPNameSize = 13
         _G.ESPDistanceSize = 12
@@ -1326,64 +1232,57 @@ local _=94894+24657;
         stopRPC()
 
         local function destroyRayfieldGui(container)
-local _=44435+82446;
             pcall(function()
                 for _, gui in pairs(container:GetChildren()) do
-                    if gui:IsA((string.char(83).."cre".."en"..string.char(71)..string.char(117)..string.char(105))) then
+                    if gui:IsA(string.char(83*1)..string.char(3+96).."re"..string.char(186-85)..string.char(110*1).."Gu"..string.char(105*1)) then
                         local n = gui.Name:lower()
-                        if n:find((string.char(114)..string.char(97)..string.char(121)..string.char(102).."ie"..string.char(108)..string.char(100))) or n:find(("wi".."ndo"..string.char(119))) or n:find(("ma".."zil"..string.char(97))) or n:find(("tog".."gle")) then
+                        if n:find("ra"..string.char(121*1)..string.char(82+20)..string.char(142-37)..string.char(139-38).."ld") or n:find(string.char(7+112)..string.char(60+45).."nd"..string.char(111*1)..string.char(111+8)) or n:find(string.char(50+59)..string.char(156-59).."zi"..string.char(135-27)..string.char(94+3)) or n:find(string.char(58+58).."og".."gl"..string.char(41+60)) then
                             gui:Destroy()
                         end
                     end
                 end
             end)
             pcall(function()
-local _=5355>90660 and 30220 or 83190;
                 for _, gui in pairs(container:GetChildren()) do
-                    if gui:IsA((string.char(83)..string.char(99)..string.char(114).."een"..string.char(71).."ui")) and gui ~= CoreGui:FindFirstChild((string.char(82).."obl".."ox".."Gu"..string.char(105))) then
+                    if gui:IsA("Sc".."re".."en"..string.char(36+35).."ui") and gui ~= CoreGui:FindFirstChild(string.char(82*1).."ob".."lo"..string.char(158-38).."Gu"..string.char(105*1)) then
                         local hasFrames = false
                         for _, desc in pairs(gui:GetDescendants()) do
-                            if desc:IsA(("Fr".."am"..string.char(101))) and desc.AbsoluteSize.X > 50 then
+                            if desc:IsA(string.char(4+66).."ra"..string.char(75+34)..string.char(161-60)) and desc.AbsoluteSize.X > 50 then
                                 hasFrames = true
                                 break
                             end
                         end
-                        local isDefault = gui.Name == ("Rob".."lo".."xGu"..string.char(105)) or gui.Name == (string.char(82).."obl"..string.char(111).."xSc".."rip"..string.char(116)) or gui.Name == (string.char(72)..string.char(101).."al"..string.char(116)..string.char(104))
-local _=95314>82326 and 73727 or 39551;
+                        local isDefault = gui.Name == string.char(82*1).."ob"..string.char(108*1)..string.char(111*1).."xG"..string.char(156-39)..string.char(189-84) or gui.Name == string.char(174-92)..string.char(111*1)..string.char(171-73)..string.char(108*1).."ox".."Sc".."ri"..string.char(131-19)..string.char(22+94) or gui.Name == string.char(65+7).."ea"..string.char(108*1)..string.char(187-71)..string.char(42+62)
                         if hasFrames and not isDefault then
                             gui:Destroy()
-do local _=90278 end
                         end
                     end
                 end
-do local _=57134 end
             end)
         end
 
         destroyRayfieldGui(CoreGui)
-do local _=44338 end
         destroyRayfieldGui(LocalPlayer.PlayerGui)
+local _ntdFd=5026*6291
 
         pcall(function() Rayfield:Destroy() end)
         pcall(function() Window:Destroy() end)
-do local _=55224 end
 
-        print((string.char(91).."maz"..string.char(105).."la"..".w"..string.char(116)..string.char(102)..string.char(93)..string.char(32)..string.char(85)..string.char(110).."loa"..string.char(100).."ed"))
+        print(string.char(91*1).."ma"..string.char(122*1)..string.char(197-92)..string.char(63+45).."a.".."wt"..string.char(102*1)..string.char(93*1)..string.char(45-13)..string.char(6+79)..string.char(110*1)..string.char(108*1)..string.char(211-100)..string.char(124-27)..string.char(100*1)..string.char(144-43)..string.char(100*1))
     end,
-local _=44421+715;
 })
 
 -- ============ MISC TAB ============
-local MiscTab = Window:CreateTab({ Name = (string.char(77)..string.char(105).."sc"), Icon = ("rbx".."ass".."eti"..string.char(100)..string.char(58)..string.char(47)..string.char(47)..string.char(52)..string.char(52)..string.char(56).."336".."24".."58") })
-MiscTab:CreateSection((string.char(68).."isc"..string.char(111)..string.char(114)..string.char(100)..string.char(32)..string.char(38)..string.char(32)..string.char(76)..string.char(105)..string.char(110).."ks"))
-local _=91412>85265 and 23813 or 17283;
+local MiscTab = Window:CreateTab({ Name = "Mi"..string.char(115*1)..string.char(99*1), Icon = string.char(114*1).."bx".."as".."se".."ti".."d:"..string.char(94-47)..string.char(30+17).."44"..string.char(59-3)..string.char(51*1)..string.char(117-66)..string.char(47+7)..string.char(40+10).."45"..string.char(20+36) })
+MiscTab:CreateSection(string.char(68*1)..string.char(105*1)..string.char(21+94)..string.char(33+66)..string.char(111*1)..string.char(5+109)..string.char(73+27)..string.char(110-78)..string.char(131-93)..string.char(25+7)..string.char(76*1)..string.char(58+47).."nk"..string.char(144-29))
 
 _G.DiscordRPC = false
 local rpcSocket = nil
 
 local function discordRequest(cmd, args)
+local _DZlQICkGYD=1580-1973
     pcall(function()
-        local httpService = game:GetService(("Ht".."tpS"..string.char(101).."rvi"..string.char(99)..string.char(101)))
+        local httpService = game:GetService(string.char(72*1)..string.char(116*1)..string.char(116*1)..string.char(65+47).."Se".."rv"..string.char(160-55)..string.char(99*1)..string.char(89+12))
         local payload = httpService:JSONEncode({
             cmd = cmd,
             args = args or {},
@@ -1391,14 +1290,11 @@ local function discordRequest(cmd, args)
         })
 
         local reqFn = (syn and syn.request) or request or http_request or (krnl and krnl.request)
-local _=13101+31611;
         if reqFn then
-local _=95900>4792 and 2533 or 45311;
             reqFn({
-do local _=47336 end
-                Url = ("ht"..string.char(116)..string.char(112)..string.char(58)..string.char(47)..string.char(47)..string.char(49)..string.char(50).."7.0"..".0"..".1"..":64".."63"),
-                Method = (string.char(80).."OST"),
-                Headers = { [(string.char(67).."ont".."ent"..string.char(45).."Typ"..string.char(101))] = ("ap"..string.char(112).."li".."cat".."io"..string.char(110)..string.char(47).."js"..string.char(111)..string.char(110)) },
+                Url = "ht".."tp"..string.char(58*1).."//"..string.char(21+28)..string.char(17+33)..string.char(124-69)..string.char(46*1).."0."..string.char(76-28)..string.char(45+1)..string.char(49*1)..":6"..string.char(145-93).."63",
+                Method = "PO".."ST",
+                Headers = { [string.char(67*1)..string.char(111*1)..string.char(110*1).."te"..string.char(42+68)..string.char(188-72)..string.char(86-41)..string.char(183-99)..string.char(151-30)..string.char(90+22)..string.char(68+33)] = "ap".."pl"..string.char(63+42)..string.char(192-93)..string.char(104-7)..string.char(130-14).."io".."n/"..string.char(49+57)..string.char(115*1)..string.char(111*1)..string.char(110*1) },
                 Body = payload,
             })
         end
@@ -1407,43 +1303,39 @@ end
 
 local function startRPC()
     pcall(function()
-        local APP_ID = ("154"..string.char(53).."38"..string.char(49).."044"..string.char(56).."683".."54".."139")
+        local APP_ID = string.char(49*1).."54"..string.char(80-27).."38"..string.char(49*1)..string.char(108-60)..string.char(52*1).."48"..string.char(123-69).."83"..string.char(53*1)..string.char(52*1)..string.char(59-10)..string.char(75-24)..string.char(153-96)
 
-        discordRequest(("AU"..string.char(84).."HOR"..string.char(73)..string.char(90)..string.char(69)), {
+        discordRequest("AU"..string.char(84*1)..string.char(26+46)..string.char(27+52)..string.char(82*1)..string.char(73*1)..string.char(90*1)..string.char(69*1), {
             client_id = APP_ID,
-            scopes = { (string.char(114)..string.char(112)..string.char(99)), (string.char(105).."de"..string.char(110)..string.char(116).."if"..string.char(121)) },
-local _=61762;
+            scopes = { string.char(114*1)..string.char(30+82)..string.char(91+8), string.char(105*1).."de"..string.char(86+24)..string.char(116*1)..string.char(84+21)..string.char(70+32)..string.char(154-33) },
         })
 
-        local gameName = ("Ro".."blo"..string.char(120))
+        local gameName = string.char(140-58).."ob".."lo"..string.char(120*1)
         pcall(function()
-            gameName = game:GetService(("Mar".."ke".."tp".."la".."ce".."Ser".."vic"..string.char(101))):GetProductInfo(game.PlaceId).Name
+            gameName = game:GetService(string.char(144-67)..string.char(161-64).."rk"..string.char(39+62).."tp"..string.char(108*1)..string.char(97*1).."ce"..string.char(6+77)..string.char(69+32)..string.char(114*1)..string.char(118*1)..string.char(105*1)..string.char(10+89)..string.char(101*1)):GetProductInfo(game.PlaceId).Name
         end)
 
-        discordRequest((string.char(83)..string.char(69).."T_"..string.char(65).."CT".."IV".."ITY"), {
+        discordRequest(string.char(174-91).."ET"..string.char(38+57)..string.char(156-91).."CT".."IV".."IT"..string.char(89*1), {
             pid = 0,
             activity = {
-                details = (string.char(109).."azi".."la.".."wt"..string.char(102)..string.char(32)..string.char(47)..string.char(47)..string.char(32)..string.char(118)..string.char(49)..".0"..".0"),
-                state = ("Pl"..string.char(97)..string.char(121).."in"..string.char(103)..string.char(32)) .. gameName,
+                details = string.char(164-55)..string.char(97*1)..string.char(88+34)..string.char(26+79)..string.char(108*1)..string.char(97*1)..".w"..string.char(86+30)..string.char(102*1)..string.char(24+8)..string.char(106-59)..string.char(125-78)..string.char(35-3)..string.char(207-89).."1."..string.char(35+13)..string.char(46*1)..string.char(12+36),
+                state = string.char(23+57).."la"..string.char(121*1)..string.char(5+100).."ng"..string.char(48-16) .. gameName,
                 assets = {
-                    large_image = ("maz".."ila"..string.char(95)..string.char(108).."og"..string.char(111)),
-                    large_text = ("ma".."zi"..string.char(108)..string.char(97)..".wt"..string.char(102)),
+                    large_image = "ma"..string.char(3+119)..string.char(199-94)..string.char(22+86)..string.char(97*1)..string.char(95*1)..string.char(120-12)..string.char(182-71)..string.char(5+98)..string.char(111*1),
+                    large_text = "ma"..string.char(78+44)..string.char(105*1).."la"..string.char(77-31)..string.char(184-65).."tf",
                 },
-do local _=78701 end
                 timestamps = {
-do local _=40642 end
                     start = os.time(),
                 },
             },
         })
     end)
-local _=13997>2832 and 28157 or 75338;
 end
-local _=40362;
 
 local function stopRPC()
+local _ydESQ=6657*4829
     pcall(function()
-        discordRequest(("SET"..string.char(95).."AC"..string.char(84).."IVI".."TY"), {
+        discordRequest("SE"..string.char(63+21)..string.char(136-41)..string.char(20+45).."CT"..string.char(73*1).."VI".."TY", {
             pid = 0,
             activity = nil,
         })
@@ -1451,29 +1343,36 @@ local function stopRPC()
 end
 
 MiscTab:CreateToggle({
-    Name = (string.char(69).."na".."bl"..string.char(101)..string.char(32)..string.char(68)..string.char(105).."sc".."ord"..string.char(32)..string.char(82)..string.char(80)..string.char(67)),
+    Name = string.char(64+5)..string.char(148-38)..string.char(97*1)..string.char(150-52).."le"..string.char(32*1)..string.char(68*1)..string.char(182-77).."sc"..string.char(111*1)..string.char(56+58)..string.char(134-34)..string.char(13+19).."RP"..string.char(67*1),
     CurrentValue = false,
-do local _=67238 end
     Callback = function(v)
         _G.DiscordRPC = v
         if v then
             startRPC()
+local _dvpLPoY=1644+1318
         else
             stopRPC()
+local _Eutr=4714+1905
         end
     end,
 })
 
 MiscTab:CreateButton({
-    Name = ("Cop"..string.char(121)..string.char(32).."Di".."sco".."rd"..string.char(32)..string.char(76)..string.char(105)..string.char(110)..string.char(107)),
+    Name = string.char(67*1)..string.char(111*1)..string.char(39+73)..string.char(171-50)..string.char(32*1)..string.char(55+13).."is".."co"..string.char(114*1)..string.char(100*1)..string.char(124-92)..string.char(103-27)..string.char(176-71).."nk",
     Callback = function()
         if setclipboard then
-            setclipboard(("ht"..string.char(116)..string.char(112).."s:"..string.char(47)..string.char(47)..string.char(100).."isc".."ord"..string.char(46)..string.char(103)..string.char(103)..string.char(47).."9cc".."yCR"..string.char(110).."r8"..string.char(80)))
+            setclipboard(string.char(159-55)..string.char(103+13)..string.char(62+54)..string.char(112*1).."s:"..string.char(93-46)..string.char(47*1)..string.char(100*1)..string.char(107-2).."sc".."or"..string.char(33+67)..".g"..string.char(103*1).."/9"..string.char(99*1)..string.char(99*1)..string.char(41+80).."CR"..string.char(110*1)..string.char(114*1)..string.char(72-16)..string.char(80*1))
         end
     end,
 })
 
-do local _=64665 end
-do local _=5861 end
-local _=20535;
-local _=97906+51237;
+local _hcWN=9829-6471
+local _cjYSoBLpP=6979-2008
+local _vNhAPf=877-7254
+local ___VcspcD=5063+3262
+local _rnqaSCLJM=9542-7969
+local _ZktYM=5875+7762
+local _ZXNgPxZlR=8079-7889
+local _UsVJiIQEL=258*3751
+local _Fcwa=6470*7526
+local __EwyDWsz=7675+8631
