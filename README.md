@@ -5,7 +5,7 @@ ESP • Aimbot • Chams • Discord RPC • Custom UI
 ## Loadstring
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/megapxzeeoh/KillCode/main/mazila.wtf"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/megapxzeeoh/mazila-obsuficated/main/mazila.wtf"))()
 ```
 
 > ⚠️ Обфусцированная версия. Не适用于 reverse engineering.
